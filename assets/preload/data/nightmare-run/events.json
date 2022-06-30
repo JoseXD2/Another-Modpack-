@@ -1,0 +1,169 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "RUN",
+		"player1": "bf-run",
+		"player2": "bendy-run",
+		"player3": null,
+		"events": [
+			[
+				37454.9819927971,
+				[
+					[
+						"Change Character",
+						"0",
+						"bf-rundark"
+					],
+					[
+						"Change Character",
+						"1",
+						"bendy-dark"
+					]
+				]
+			],
+			[
+				37545.0180072029,
+				[
+					[
+						"noteskinchange",
+						"bendynotes",
+						""
+					]
+				]
+			],
+			[
+				48889.5558223289,
+				[
+					[
+						"noteskinchange",
+						"NOTE_assets",
+						""
+					]
+				]
+			],
+			[
+				48979.5918367347,
+				[
+					[
+						"Change Character",
+						"1",
+						"bendy-run"
+					],
+					[
+						"Change Character",
+						"0",
+						"bf-run"
+					]
+				]
+			],
+			[
+				94087.6350540215,
+				[
+					[
+						"noteskinchange",
+						"bendynotes",
+						""
+					]
+				]
+			],
+			[
+				95080.0312124849,
+				[
+					[
+						"Change Character",
+						"0",
+						"bf-rundark"
+					],
+					[
+						"Change Character",
+						"1",
+						"bendy-dark"
+					]
+				]
+			],
+			[
+				118127.25090036,
+				[
+					[
+						"noteskinchange",
+						"NOTE_assets",
+						""
+					]
+				]
+			],
+			[
+				118130.25090036,
+				[
+					[
+						"Change Character",
+						"0",
+						"bf-run"
+					],
+					[
+						"Change Character",
+						"1",
+						"bendy-run"
+					]
+				]
+			],
+			[
+				149819.927971189,
+				[
+					[
+						"noteskinchange",
+						"bendynotes",
+						""
+					]
+				]
+			],
+			[
+				151260.504201681,
+				[
+					[
+						"Change Character",
+						"1",
+						"bendy-dark"
+					],
+					[
+						"Change Character",
+						"0",
+						"bf-rundark"
+					]
+				]
+			],
+			[
+				174579.831932773,
+				[
+					[
+						"noteskinchange",
+						"NOTE_assets",
+						""
+					]
+				]
+            ],
+            [
+				174399.759903962,
+				[
+					[
+						"Change Character",
+						"0",
+						"bf-run"
+					],
+					[
+						"Change Character",
+						"1",
+						"bendy-run"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 166.6,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Nightmare-Run"
+	}
+}

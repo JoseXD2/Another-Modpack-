@@ -1,0 +1,49 @@
+{
+	"song": {
+		"speed": 2,
+		"stage": "School2D",
+		"player1": "bf-pixelD2Glitch",
+		"player2": "senpai-angry",
+		"player3": null,
+		"events": [
+			[
+				5581.39534883721,
+				[
+					[
+						"Change Character",
+						"0",
+						"bf-pixelD2Glitch2"
+					]
+				]
+			],
+			[
+				11162.7906976744,
+				[
+					[
+						"Change Character",
+						"0",
+						"bf-pixelD2Glitch3"
+					]
+				]
+			],
+			[
+				15348.8372093023,
+				[
+					[
+						"Change Character",
+						"0",
+						"bf-pixelD2"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gfPixelD2",
+		"bpm": 172,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Dead-pixel"
+	}
+}

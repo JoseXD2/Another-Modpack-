@@ -1,0 +1,59 @@
+{
+	"song": {
+		"speed": 3.8,
+		"stage": "tailsplace",
+		"player1": "bf",
+		"player2": "tails",
+		"player3": null,
+		"events": [
+			[
+				30720,
+				[
+					[
+						"ExplosionEvent",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				122880,
+				[
+					[
+						"ExplosionEvent",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				207360,
+				[
+					[
+						"TweenSpin",
+						"",
+						""
+					]
+				]
+			],
+			[
+				209220,
+				[
+					[
+						"TweenSpin",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 250,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Best Friends"
+	}
+}

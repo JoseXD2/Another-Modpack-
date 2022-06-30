@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-14,
+				-302
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "gf dleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-23,
+				-302
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "gf dright",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-19,
+				-305
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "gf left"
+		},
+		{
+			"offsets": [
+				-24,
+				-307
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "gf down"
+		},
+		{
+			"offsets": [
+				-24,
+				-296
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "gf up"
+		},
+		{
+			"offsets": [
+				-24,
+				-303
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "gf right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-24,
+				-297
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "hey",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gf",
+	"position": [
+		250,
+		0
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		181,
+		0,
+		84
+	],
+	"camera_position": [
+		-90,
+		330
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

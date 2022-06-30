@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Sonic_EXE_Pixel.png">
+	<SubTexture name="Sonic_EXE_Pixel Sonic_EXE_Pixel NOTE DOWN0000" x="375" y="0" width="75" height="75" frameX="0" frameY="0" frameWidth="75" frameHeight="75" />
+	<SubTexture name="Sonic_EXE_Pixel Sonic_EXE_Pixel NOTE DOWN0001" x="450" y="0" width="75" height="75" frameX="0" frameY="0" frameWidth="75" frameHeight="75" />
+	<SubTexture name="Sonic_EXE_Pixel Sonic_EXE_Pixel NOTE DOWN0002" x="0" y="75" width="75" height="75" frameX="0" frameY="0" frameWidth="75" frameHeight="75" />
+	<SubTexture name="Sonic_EXE_Pixel idle0000" x="0" y="0" width="75" height="75" frameX="0" frameY="0" frameWidth="75" frameHeight="75" />
+	<SubTexture name="Sonic_EXE_Pixel idle0001" x="75" y="0" width="75" height="75" frameX="0" frameY="0" frameWidth="75" frameHeight="75" />
+	<SubTexture name="Sonic_EXE_Pixel idle0002" x="150" y="0" width="75" height="75" frameX="0" frameY="0" frameWidth="75" frameHeight="75" />
+	<SubTexture name="Sonic_EXE_Pixel idle0003" x="225" y="0" width="75" height="75" frameX="0" frameY="0" frameWidth="75" frameHeight="75" />
+	<SubTexture name="Sonic_EXE_Pixel idle0004" x="300" y="0" width="75" height="75" frameX="0" frameY="0" frameWidth="75" frameHeight="75" />
+	<SubTexture name="Sonic_EXE_Pixel Sonic_EXE_Pixel NOTE LEFT0000" x="75" y="75" width="75" height="75" frameX="0" frameY="0" frameWidth="75" frameHeight="75" />
+	<SubTexture name="Sonic_EXE_Pixel Sonic_EXE_Pixel NOTE LEFT0001" x="150" y="75" width="75" height="75" frameX="0" frameY="0" frameWidth="75" frameHeight="75" />
+	<SubTexture name="Sonic_EXE_Pixel Sonic_EXE_Pixel NOTE LEFT0001" x="225" y="75" width="75" height="75" frameX="0" frameY="0" frameWidth="75" frameHeight="75" />
+	<SubTexture name="Sonic_EXE_Pixel NOTE RIGHT0000" x="0" y="150" width="75" height="75" frameX="0" frameY="0" frameWidth="75" frameHeight="75" />
+	<SubTexture name="Sonic_EXE_Pixel NOTE RIGHT0001" x="75" y="150" width="75" height="75" frameX="0" frameY="0" frameWidth="75" frameHeight="75" />
+	<SubTexture name="Sonic_EXE_Pixel NOTE RIGHT0002" x="150" y="150" width="75" height="75" frameX="0" frameY="0" frameWidth="75" frameHeight="75" />
+	<SubTexture name="Sonic_EXE_Pixel NOTE RIGHT0003" x="150" y="150" width="75" height="75" frameX="0" frameY="0" frameWidth="75" frameHeight="75" />
+	<SubTexture name="Sonic_EXE_Pixel NOTE UP0000" x="300" y="75" width="75" height="75" frameX="0" frameY="0" frameWidth="75" frameHeight="75" />
+	<SubTexture name="Sonic_EXE_Pixel NOTE UP0001" x="375" y="75" width="75" height="75" frameX="0" frameY="0" frameWidth="75" frameHeight="75" />
+	<SubTexture name="Sonic_EXE_Pixel NOTE UP0001" x="450" y="75" width="75" height="75" frameX="0" frameY="0" frameWidth="75" frameHeight="75" />
+</TextureAtlas>

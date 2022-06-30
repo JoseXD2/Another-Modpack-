@@ -1,0 +1,40 @@
+{
+	"songs": [
+		[
+			"Controller Choice",
+			"ps5",
+			[
+				175,
+				175,
+				215
+			]
+		],
+		[
+			"Controller (LNO Mix)",
+			"ps5",
+			[
+				175,
+				175,
+				215
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "Indecisive",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "Me or The PS5?",
+	"weekName": "Vs Salem Ilese",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

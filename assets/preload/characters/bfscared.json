@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-232,
+				100
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Up miss"
+		},
+		{
+			"offsets": [
+				-245,
+				138
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Left miss"
+		},
+		{
+			"offsets": [
+				-242,
+				82
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Down miss"
+		},
+		{
+			"offsets": [
+				-181,
+				61
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Right miss"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-191,
+				68
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "BF idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-232,
+				140
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "BF up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-239,
+				109
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "BF down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-189,
+				61
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "BF right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-248,
+				140
+			],
+			"anim": "singLEFT",
+			"fps": 11,
+			"name": "BF left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-178,
+				67
+			],
+			"anim": "reload",
+			"fps": 12,
+			"name": "Reload",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-63,
+				83
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "shoot",
+			"indices": [],
+			"name": "Shoot"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BF2",
+	"position": [
+		-212,
+		428
+	],
+	"healthicon": "team",
+	"flip_x": true,
+	"healthbar_colors": [
+		80,
+		165,
+		235
+	],
+	"camera_position": [
+		58,
+		-128
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

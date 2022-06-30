@@ -1,0 +1,119 @@
+{
+	"song": {
+		"speed": 1.7,
+		"stage": "School1D",
+		"player1": "bf-pixel",
+		"player2": "senpai",
+		"player3": null,
+		"events": [
+			[
+				29625,
+				[
+					[
+						"Change Character",
+						"0",
+						"bf-pixelD1"
+					]
+				]
+			],
+			[
+				30000,
+				[
+					[
+						"Change Character",
+						"0",
+						"bf-pixel"
+					]
+				]
+			],
+			[
+				30937.5,
+				[
+					[
+						"Change Character",
+						"0",
+						"bf-pixelD1"
+					]
+				]
+			],
+			[
+				31125,
+				[
+					[
+						"Change Character",
+						"0",
+						"bf-pixel"
+					]
+				]
+			],
+			[
+				32250,
+				[
+					[
+						"Change Character",
+						"0",
+						"bf-pixelD1"
+					],
+					[
+						"Change Character",
+						"1",
+						"senpai-angry"
+					],
+					[
+						"Change Character",
+						"2",
+						"gfPixelD1"
+					]
+				]
+			],
+			[
+				36333.3333333333,
+				[
+					[
+						"Change Character",
+						"2",
+						"gf-pixel"
+					]
+				]
+			],
+			[
+				41583.3333333333,
+				[
+					[
+						"Change Character",
+						"2",
+						"gfPixelD1"
+					]
+				]
+			],
+			[
+				42333.3333333333,
+				[
+					[
+						"Change Character",
+						"2",
+						"gf-pixel"
+					]
+				]
+			],
+			[
+				57333.3333333333,
+				[
+					[
+						"Change Character",
+						"2",
+						"gfPixelD1"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-pixel",
+		"bpm": 160,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Senpai-Remix"
+	}
+}

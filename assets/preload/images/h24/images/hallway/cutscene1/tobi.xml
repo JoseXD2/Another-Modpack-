@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="tobi.png"><SubTexture name="tobi0000" x="0" y="0" width="20" height="83" frameX="0" frameY="0" frameWidth="20" frameHeight="83" />
+<SubTexture name="tobi0001" x="20" y="0" width="20" height="83" frameX="0" frameY="0" frameWidth="20" frameHeight="83" />
+<SubTexture name="tobi0002" x="40" y="0" width="21" height="83" frameX="0" frameY="0" frameWidth="21" frameHeight="83" />
+<SubTexture name="tobi0003" x="61" y="0" width="21" height="83" frameX="0" frameY="0" frameWidth="21" frameHeight="83" />
+<SubTexture name="tobi0004" x="82" y="0" width="21" height="83" frameX="0" frameY="0" frameWidth="21" frameHeight="83" />
+<SubTexture name="tobi0005" x="103" y="0" width="21" height="83" frameX="0" frameY="0" frameWidth="21" frameHeight="83" />
+<SubTexture name="tobi0006" x="124" y="0" width="21" height="83" frameX="0" frameY="0" frameWidth="21" frameHeight="83" />
+<SubTexture name="tobi0007" x="145" y="0" width="21" height="83" frameX="0" frameY="0" frameWidth="21" frameHeight="83" />
+<SubTexture name="tobi0008" x="0" y="83" width="20" height="83" frameX="0" frameY="0" frameWidth="20" frameHeight="83" />
+<SubTexture name="tobi0009" x="0" y="83" width="20" height="83" frameX="0" frameY="0" frameWidth="20" frameHeight="83" />
+</TextureAtlas>

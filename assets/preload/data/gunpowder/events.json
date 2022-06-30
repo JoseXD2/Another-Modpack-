@@ -1,0 +1,39 @@
+{
+	"song": {
+		"speed": 3.5,
+		"stage": "morning",
+		"player1": "bfag",
+		"player2": "hank",
+		"player3": null,
+		"events": [
+			[
+				42197.8021978022,
+				[
+					[
+						"Alt Idle Animation",
+						"2",
+						"-alt"
+					]
+				]
+			],
+			[
+				150000,
+				[
+					[
+						"Screen Shake",
+						"0.618, 0.02.5",
+						"0.618, 0.02.5"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gfh",
+		"bpm": 182,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "gunpowder"
+	}
+}

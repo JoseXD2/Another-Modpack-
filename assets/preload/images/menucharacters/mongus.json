@@ -1,0 +1,11 @@
+{
+	"idle_anim": "mongus idle",
+	"image": "menu_mongus",
+	"position": [
+		40,
+		-100
+	],
+	"flipX": false,
+	"scale": 0.8,
+	"confirm_anim": "M Dad Idle"
+}

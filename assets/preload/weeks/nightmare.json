@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"Bad Time",
+			"sansn",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Devils Gambit",
+			"cupn",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Despair",
+			"bendyn",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"sans",
+		"fun",
+		""
+	],
+	"storyName": "Your New Week",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

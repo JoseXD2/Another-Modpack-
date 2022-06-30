@@ -1,0 +1,21 @@
+{
+	"songs": [
+		["Cross Console Clash", "console", [255, 255, 255]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "console",
+
+	"storyName": "Nintendo vs SEGA",
+	"weekBefore": "cross-console-clash",
+	"weekName": "Cross-Console-Clash",
+	"difficulties": "Nintendo,Sega",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

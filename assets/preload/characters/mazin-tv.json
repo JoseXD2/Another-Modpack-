@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				190,
+				390
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "mazin left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				190,
+				390
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "mazin right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				190,
+				390
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "mazin up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				190,
+				390
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "mazin down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				190,
+				390
+			],
+			"loop": true,
+			"fps": 22,
+			"anim": "idle",
+			"indices": [],
+			"name": "mazin idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mazin_mall_assets",
+	"position": [
+		150,
+		530
+	],
+	"healthicon": "mazin",
+	"flip_x": false,
+	"healthbar_colors": [
+		18,
+		24,
+		240
+	],
+	"camera_position": [
+		0,
+		-500
+	],
+	"sing_duration": 4,
+	"scale": 2
+}

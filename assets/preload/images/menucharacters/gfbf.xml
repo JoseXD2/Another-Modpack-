@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gfbf.png">
+	<!-- Created with Adobe Animate version 22.0.1.105 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="10000" x="6" y="6" width="815" height="493"/>
+	<SubTexture name="10001" x="6" y="6" width="815" height="493"/>
+	<SubTexture name="10002" x="827" y="6" width="815" height="493"/>
+	<SubTexture name="10003" x="827" y="6" width="815" height="493"/>
+	<SubTexture name="10004" x="1648" y="6" width="815" height="493"/>
+	<SubTexture name="10005" x="1648" y="6" width="815" height="493"/>
+	<SubTexture name="10006" x="2469" y="6" width="815" height="493"/>
+	<SubTexture name="10007" x="2469" y="6" width="815" height="493"/>
+	<SubTexture name="10008" x="6" y="505" width="815" height="493"/>
+	<SubTexture name="10009" x="827" y="505" width="815" height="493"/>
+	<SubTexture name="10010" x="827" y="505" width="815" height="493"/>
+	<SubTexture name="10011" x="827" y="505" width="815" height="493"/>
+	<SubTexture name="10012" x="1648" y="505" width="815" height="493"/>
+	<SubTexture name="10013" x="1648" y="505" width="815" height="493"/>
+	<SubTexture name="10014" x="2469" y="505" width="815" height="493"/>
+	<SubTexture name="10015" x="2469" y="505" width="815" height="493"/>
+	<SubTexture name="10016" x="6" y="1004" width="815" height="493"/>
+	<SubTexture name="10017" x="6" y="1004" width="815" height="493"/>
+	<SubTexture name="10018" x="827" y="1004" width="815" height="493"/>
+	<SubTexture name="10019" x="827" y="1004" width="815" height="493"/>
+	<SubTexture name="10020" x="1648" y="1004" width="815" height="493"/>
+	<SubTexture name="10021" x="2469" y="1004" width="815" height="493"/>
+	<SubTexture name="10022" x="2469" y="1004" width="815" height="493"/>
+	<SubTexture name="10023" x="2469" y="1004" width="815" height="493"/>
+	<SubTexture name="10024" x="6" y="6" width="815" height="493"/>
+	<SubTexture name="10025" x="6" y="6" width="815" height="493"/>
+	<SubTexture name="10026" x="827" y="6" width="815" height="493"/>
+	<SubTexture name="10027" x="827" y="6" width="815" height="493"/>
+	<SubTexture name="10028" x="1648" y="6" width="815" height="493"/>
+	<SubTexture name="10029" x="1648" y="6" width="815" height="493"/>
+	<SubTexture name="10030" x="2469" y="6" width="815" height="493"/>
+	<SubTexture name="10031" x="2469" y="6" width="815" height="493"/>
+	<SubTexture name="10032" x="6" y="505" width="815" height="493"/>
+	<SubTexture name="10033" x="827" y="505" width="815" height="493"/>
+</TextureAtlas>

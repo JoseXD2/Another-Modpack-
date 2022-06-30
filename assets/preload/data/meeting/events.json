@@ -1,0 +1,119 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "meeting",
+		"player1": "green-imposter",
+		"player2": "purple-crewmate",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"death imposter green",
+						"",
+						""
+					]
+				]
+			],
+			[
+				9846.15384615385,
+				[
+					[
+						"Camera Zoom Speed",
+						"8",
+						"1"
+					]
+				]
+			],
+			[
+				15384.6153846154,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						"0.04"
+					]
+				]
+			],
+			[
+				39384.6153846154,
+				[
+					[
+						"Camera Zoom Speed",
+						"4",
+						"1"
+					]
+				]
+			],
+			[
+				54769.2307692308,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						"0.04"
+					]
+				]
+			],
+			[
+				68923.0769230769,
+				[
+					[
+						"Camera Zoom Speed",
+						"8",
+						"1"
+					]
+				]
+			],
+			[
+				78769.2307692308,
+				[
+					[
+						"Camera Zoom Speed",
+						"4",
+						"1"
+					]
+				]
+			],
+			[
+				98461.5384615385,
+				[
+					[
+						"Camera Zoom Speed",
+						"16",
+						"0"
+					]
+				]
+			],
+			[
+				102307.692307692,
+				[
+					[
+						"Change Character",
+						"1",
+						"purple-die"
+					]
+				]
+			],
+			[
+				102461.538461539,
+				[
+					[
+						"Play Animation",
+						"voted",
+						"Dad"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 97.5,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Meeting"
+	}
+}

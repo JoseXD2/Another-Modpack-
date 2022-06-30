@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="jumpscare_assets.png"><SubTexture name="jumpscare_assets idle0000" x="0" y="0" width="377" height="337" frameX="0" frameY="0" frameWidth="377" frameHeight="337" />
+<SubTexture name="jumpscare_assets idle0001" x="377" y="0" width="377" height="337" frameX="0" frameY="0" frameWidth="377" frameHeight="337" />
+<SubTexture name="jumpscare_assets idle0002" x="0" y="337" width="377" height="337" frameX="0" frameY="0" frameWidth="377" frameHeight="337" />
+<SubTexture name="jumpscare_assets idle0003" x="377" y="337" width="377" height="337" frameX="0" frameY="0" frameWidth="377" frameHeight="337" />
+<SubTexture name="jumpscare_assets idle0004" x="755" y="0" width="377" height="337" frameX="0" frameY="0" frameWidth="377" frameHeight="337" />
+<SubTexture name="jumpscare_assets idle0005" x="755" y="337" width="377" height="337" frameX="0" frameY="0" frameWidth="377" frameHeight="337" />
+<SubTexture name="jumpscare_assets idle0006" x="0" y="674" width="377" height="337" frameX="0" frameY="0" frameWidth="377" frameHeight="337" />
+<SubTexture name="jumpscare_assets idle0007" x="377" y="674" width="377" height="337" frameX="0" frameY="0" frameWidth="377" frameHeight="337" />
+<SubTexture name="jumpscare_assets up0000" x="0" y="0" width="377" height="337" frameX="0" frameY="0" frameWidth="377" frameHeight="337" />
+<SubTexture name="jumpscare_assets up0001" x="377" y="0" width="377" height="337" frameX="0" frameY="0" frameWidth="377" frameHeight="337" />
+<SubTexture name="jumpscare_assets up0002" x="0" y="337" width="377" height="337" frameX="0" frameY="0" frameWidth="377" frameHeight="337" />
+<SubTexture name="jumpscare_assets up0003" x="377" y="337" width="377" height="337" frameX="0" frameY="0" frameWidth="377" frameHeight="337" />
+<SubTexture name="jumpscare_assets up0004" x="755" y="0" width="377" height="337" frameX="0" frameY="0" frameWidth="377" frameHeight="337" />
+<SubTexture name="jumpscare_assets up0005" x="755" y="337" width="377" height="337" frameX="0" frameY="0" frameWidth="377" frameHeight="337" />
+<SubTexture name="jumpscare_assets up0006" x="0" y="674" width="377" height="337" frameX="0" frameY="0" frameWidth="377" frameHeight="337" />
+<SubTexture name="jumpscare_assets up0007" x="377" y="674" width="377" height="337" frameX="0" frameY="0" frameWidth="377" frameHeight="337" />
+</TextureAtlas>

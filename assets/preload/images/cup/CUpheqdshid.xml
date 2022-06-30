@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="CUpheqdshid.png" width="2962" height="2930">
+  <SubTexture name="Cupheadshit_gif instance 1000" x="0" y="0"  width="642" height="366" frameX="-4" frameY="-4" frameWidth="650" frameHeight="370"/>
+  <SubTexture name="Cupheadshit_gif instance 1001" x="0" y="366"  width="650" height="366" frameX="-0" frameY="-4" frameWidth="650" frameHeight="370"/>
+  <SubTexture name="Cupheadshit_gif instance 1002" x="0" y="732"  width="650" height="366" frameX="-0" frameY="-4" frameWidth="650" frameHeight="370"/>
+  <SubTexture name="Cupheadshit_gif instance 1003" x="642" y="0"  width="650" height="366" frameX="-0" frameY="-4" frameWidth="650" frameHeight="370"/>
+  <SubTexture name="Cupheadshit_gif instance 1004" x="0" y="1098"  width="650" height="366" frameX="-0" frameY="-4" frameWidth="650" frameHeight="370"/>
+  <SubTexture name="Cupheadshit_gif instance 1005" x="650" y="366"  width="622" height="366" frameX="-0" frameY="-4" frameWidth="622" frameHeight="370"/>
+  <SubTexture name="Cupheadshit_gif instance 1006" x="1292" y="0"  width="642" height="370" frameX="-4" frameY="-0" frameWidth="650" frameHeight="370"/>
+  <SubTexture name="Cupheadshit_gif instance 1007" x="0" y="1464"  width="650" height="370" frameX="-0" frameY="-0" frameWidth="650" frameHeight="370"/>
+  <SubTexture name="Cupheadshit_gif instance 1008" x="650" y="732"  width="650" height="370" frameX="-0" frameY="-0" frameWidth="650" frameHeight="370"/>
+  <SubTexture name="Cupheadshit_gif instance 1009" x="1934" y="0"  width="650" height="370" frameX="-0" frameY="-0" frameWidth="650" frameHeight="370"/>
+  <SubTexture name="Cupheadshit_gif instance 1010" x="0" y="1834"  width="650" height="370" frameX="-0" frameY="-0" frameWidth="650" frameHeight="370"/>
+  <SubTexture name="Cupheadshit_gif instance 1011" x="650" y="1102"  width="622" height="370" frameX="-0" frameY="-0" frameWidth="622" frameHeight="370"/>
+  <SubTexture name="Cupheadshit_gif instance 1012" x="1300" y="370"  width="642" height="370" frameX="-4" frameY="-0" frameWidth="650" frameHeight="370"/>
+  <SubTexture name="Cupheadshit_gif instance 1013" x="0" y="2204"  width="650" height="370" frameX="-0" frameY="-0" frameWidth="650" frameHeight="370"/>
+  <SubTexture name="Cupheadshit_gif instance 1014" x="650" y="1472"  width="650" height="370" frameX="-0" frameY="-0" frameWidth="650" frameHeight="370"/>
+  <SubTexture name="Cupheadshit_gif instance 1015" x="1300" y="740"  width="650" height="370" frameX="-0" frameY="-0" frameWidth="650" frameHeight="370"/>
+  <SubTexture name="Cupheadshit_gif instance 1016" x="650" y="1842"  width="650" height="370" frameX="-0" frameY="-0" frameWidth="650" frameHeight="370"/>
+  <SubTexture name="Cupheadshit_gif instance 1017" x="1942" y="370"  width="622" height="370" frameX="-0" frameY="-0" frameWidth="622" frameHeight="370"/>
+  <SubTexture name="Cupheadshit_gif instance 1018" x="650" y="2212"  width="642" height="370" frameX="-4" frameY="-0" frameWidth="650" frameHeight="370"/>
+  <SubTexture name="Cupheadshit_gif instance 1019" x="1950" y="740"  width="650" height="370" frameX="-0" frameY="-0" frameWidth="650" frameHeight="370"/>
+  <SubTexture name="Cupheadshit_gif instance 1020" x="1300" y="1110"  width="650" height="370" frameX="-0" frameY="-0" frameWidth="650" frameHeight="370"/>
+  <SubTexture name="Cupheadshit_gif instance 1021" x="1292" y="2212"  width="650" height="370" frameX="-0" frameY="-0" frameWidth="650" frameHeight="370"/>
+  <SubTexture name="Cupheadshit_gif instance 1022" x="1950" y="1110"  width="650" height="370" frameX="-0" frameY="-0" frameWidth="650" frameHeight="370"/>
+  <SubTexture name="Cupheadshit_gif instance 1023" x="1300" y="1480"  width="622" height="370" frameX="-0" frameY="-0" frameWidth="622" frameHeight="370"/>
+  <SubTexture name="Cupheadshit_gif instance 1024" x="1922" y="1480"  width="642" height="370" frameX="-4" frameY="-0" frameWidth="650" frameHeight="370"/>
+  <SubTexture name="Cupheadshit_gif instance 1025" x="2584" y="0" width="370" height="650" rotated="true"  frameX="-0" frameY="-0" frameWidth="650" frameHeight="370"/>
+  <SubTexture name="Cupheadshit_gif instance 1026" x="1942" y="1850"  width="650" height="370" frameX="-0" frameY="-0" frameWidth="650" frameHeight="370"/>
+  <SubTexture name="Cupheadshit_gif instance 1027" x="1942" y="2220"  width="650" height="370" frameX="-0" frameY="-0" frameWidth="650" frameHeight="370"/>
+  <SubTexture name="Cupheadshit_gif instance 1028" x="2592" y="1480" width="370" height="650" rotated="true"  frameX="-0" frameY="-0" frameWidth="650" frameHeight="370"/>
+  <SubTexture name="Cupheadshit_gif instance 1029" x="2592" y="2130" width="370" height="622" rotated="true"  frameX="-0" frameY="-0" frameWidth="622" frameHeight="370"/>
+  <SubTexture name="Cupheadshit_gif instance 1030" x="0" y="2574"  width="642" height="340" frameX="-4" frameY="-0" frameWidth="650" frameHeight="340"/>
+  <SubTexture name="Cupheadshit_gif instance 1031" x="642" y="2582"  width="650" height="340" frameX="-0" frameY="-0" frameWidth="650" frameHeight="340"/>
+  <SubTexture name="Cupheadshit_gif instance 1032" x="1292" y="2582"  width="650" height="340" frameX="-0" frameY="-0" frameWidth="650" frameHeight="340"/>
+  <SubTexture name="Cupheadshit_gif instance 1033" x="1942" y="2590"  width="650" height="340" frameX="-0" frameY="-0" frameWidth="650" frameHeight="340"/>
+  <SubTexture name="Cupheadshit_gif instance 1034" x="2600" y="650" width="340" height="650" rotated="true"  frameX="-0" frameY="-0" frameWidth="650" frameHeight="340"/>
+  <SubTexture name="Cupheadshit_gif instance 1035" x="1300" y="1850"  width="622" height="340" frameX="-0" frameY="-0" frameWidth="622" frameHeight="340"/>
+</TextureAtlas>

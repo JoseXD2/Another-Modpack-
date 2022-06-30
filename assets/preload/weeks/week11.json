@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["Overwrite", "chara", [146, 113, 253]],
+		["InkingMistake", "sans", [146, 113, 253]],
+		["Relighted", "gaster", [146, 113, 253]]
+	],
+
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "",
+
+	"storyName": "X Event",
+	"weekBefore": "tutorial",
+	"weekName": "Week 1",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

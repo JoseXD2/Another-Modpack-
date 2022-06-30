@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				4,
+				-262
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idlesonic"
+		},
+		{
+			"offsets": [
+				-17,
+				-261
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "leftsonic"
+		},
+		{
+			"offsets": [
+				-36,
+				-263
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "rightsonic"
+		},
+		{
+			"offsets": [
+				-36,
+				-264
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "downsonic"
+		},
+		{
+			"offsets": [
+				-6,
+				-262
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singUP",
+			"indices": [],
+			"name": "upsonic"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sonicgod2",
+	"position": [
+		-110,
+		-280
+	],
+	"healthicon": "Exe",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		255
+	],
+	"camera_position": [
+		30,
+		470
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}

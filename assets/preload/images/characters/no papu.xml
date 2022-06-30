@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="no papu.png"><SubTexture name="boyfriend dodge0000" x="0" y="0" width="451" height="404" frameX="0" frameY="0" frameWidth="567" frameHeight="404" />
+<SubTexture name="boyfriend dodge0001" x="451" y="0" width="483" height="403" frameX="-73" frameY="-1" frameWidth="567" frameHeight="404" />
+<SubTexture name="boyfriend dodge0002" x="0" y="404" width="380" height="403" frameX="-73" frameY="-1" frameWidth="567" frameHeight="404" />
+<SubTexture name="no papu0000" x="380" y="404" width="427" height="389" frameX="0" frameY="-3" frameWidth="442" frameHeight="393" />
+<SubTexture name="no papu0001" x="934" y="0" width="427" height="389" frameX="0" frameY="-3" frameWidth="442" frameHeight="393" />
+</TextureAtlas>

@@ -1,0 +1,11 @@
+{
+	"idle_anim": "1",
+	"image": "gfbf",
+	"position": [
+		265,
+		62
+	],
+	"flipX": false,
+	"scale": 0.75,
+	"confirm_anim": "1"
+}

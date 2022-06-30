@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="static.png">
+<SubTexture name="static glitch0000" x="0" y="0" width="321" height="180" frameX="0" frameY="-2" frameWidth="1284" frameHeight="724" />
+<SubTexture name="static glitch0001" x="321" y="0" width="321" height="180" frameX="0" frameY="-2" frameWidth="1284" frameHeight="724" />
+<SubTexture name="static glitch0002" x="0" y="180" width="321" height="180" frameX="0" frameY="-2" frameWidth="1284" frameHeight="724" />
+</TextureAtlas>

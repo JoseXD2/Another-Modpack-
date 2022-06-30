@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="inktest.png"><SubTexture name="Ink Sing Note DOWN0000" x="1618" y="1704" width="555" height="531" frameX="-47" frameY="-152" frameWidth="764" frameHeight="692" />
+<SubTexture name="Ink Sing Note DOWN0001" x="1074" y="1704" width="544" height="537" frameX="-47" frameY="-146" frameWidth="764" frameHeight="692" />
+<SubTexture name="Ink Sing Note DOWN0002" x="532" y="1704" width="542" height="538" frameX="-47" frameY="-145" frameWidth="764" frameHeight="692" />
+<SubTexture name="Ink Sing Note LEFT0000" x="0" y="1704" width="532" height="547" frameX="-47" frameY="-136" frameWidth="764" frameHeight="692" />
+<SubTexture name="Ink Sing Note LEFT0001" x="1549" y="560" width="524" height="551" frameX="-47" frameY="-132" frameWidth="764" frameHeight="692" />
+<SubTexture name="Ink Sing Note LEFT0002" x="2078" y="1116" width="519" height="553" frameX="-47" frameY="-130" frameWidth="764" frameHeight="692" />
+<SubTexture name="Ink Sing Note RIGHT0000" x="0" y="0" width="509" height="582" frameX="-55" frameY="-101" frameWidth="764" frameHeight="692" />
+<SubTexture name="Ink Sing Note RIGHT0001" x="509" y="0" width="519" height="569" frameX="-54" frameY="-114" frameWidth="764" frameHeight="692" />
+<SubTexture name="Ink Sing Note RIGHT0002" x="1028" y="0" width="521" height="569" frameX="-54" frameY="-114" frameWidth="764" frameHeight="692" />
+<SubTexture name="Ink Sing Note UP0000" x="530" y="582" width="531" height="561" frameX="-47" frameY="-122" frameWidth="764" frameHeight="692" />
+<SubTexture name="Ink Sing Note UP0001" x="0" y="582" width="530" height="562" frameX="-47" frameY="-121" frameWidth="764" frameHeight="692" />
+<SubTexture name="Ink Sing Note UP0002" x="1549" y="0" width="529" height="560" frameX="-47" frameY="-123" frameWidth="764" frameHeight="692" />
+<SubTexture name="Ink idle dance0000" x="2078" y="0" width="540" height="558" frameX="-47" frameY="-125" frameWidth="764" frameHeight="692" />
+<SubTexture name="Ink idle dance0001" x="2078" y="0" width="540" height="558" frameX="-47" frameY="-125" frameWidth="764" frameHeight="692" />
+<SubTexture name="Ink idle dance0002" x="0" y="1144" width="537" height="560" frameX="-47" frameY="-123" frameWidth="764" frameHeight="692" />
+<SubTexture name="Ink idle dance0003" x="537" y="1144" width="536" height="560" frameX="-47" frameY="-123" frameWidth="764" frameHeight="692" />
+<SubTexture name="Ink idle dance0004" x="1073" y="1144" width="537" height="560" frameX="-47" frameY="-123" frameWidth="764" frameHeight="692" />
+<SubTexture name="Ink idle dance0005" x="1073" y="1144" width="537" height="560" frameX="-47" frameY="-123" frameWidth="764" frameHeight="692" />
+<SubTexture name="Ink idle dance0006" x="2078" y="558" width="540" height="558" frameX="-47" frameY="-125" frameWidth="764" frameHeight="692" />
+</TextureAtlas>

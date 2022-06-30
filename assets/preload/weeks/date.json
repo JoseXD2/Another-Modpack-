@@ -1,0 +1,32 @@
+{
+	"storyName": "Picnic date",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"gfbf",
+		""
+	],
+	"songs": [
+		[
+			"Funky Rendevous",
+			"gf",
+			[
+				215,
+				60,
+				135
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "weewee",
+	"hiddenUntilUnlocked": false
+}

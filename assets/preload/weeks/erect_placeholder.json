@@ -1,0 +1,40 @@
+{
+	"storyName": "Erect",
+	"difficulties": "Erect",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "none",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"erect bopeebo",
+			"daddy-erect",
+			[
+				255,
+				115,
+				155
+			]
+		],
+		[
+			"erect dadbattle",
+			"daddy-erect",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Erect"
+}

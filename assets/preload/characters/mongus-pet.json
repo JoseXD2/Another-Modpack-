@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-115,
+				-180
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "mongus idle"
+		},
+		{
+			"offsets": [
+				184,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "mongus left"
+		},
+		{
+			"offsets": [
+				-104,
+				-101
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "mongus down"
+		},
+		{
+			"offsets": [
+				-125,
+				109
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "mongus up"
+		},
+		{
+			"offsets": [
+				-130,
+				42
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "mongus right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mongus pet assets",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "mongus",
+	"flip_x": false,
+	"healthbar_colors": [
+		150,
+		202,
+		221
+	],
+	"camera_position": [
+		90,
+		190
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,32 @@
+{
+	"storyName": "mongus fungus",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "mongus",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"voted",
+			"mongus",
+			[
+				255,
+				193,
+				75
+			]
+		]
+	],
+	"weekCharacters": [
+		"mongus",
+		"pet-bf",
+		"pet-gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

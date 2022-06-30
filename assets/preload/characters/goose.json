@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				142,
+				220
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "GANSO Up"
+		},
+		{
+			"offsets": [
+				280,
+				126
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "GANSO Left"
+		},
+		{
+			"offsets": [
+				117,
+				84
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "GANSO Right"
+		},
+		{
+			"offsets": [
+				153,
+				85
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "GANSO Idle"
+		},
+		{
+			"offsets": [
+				144,
+				221
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "Gose Up Follador"
+		},
+		{
+			"offsets": [
+				262,
+				127
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "Gose Left Follador"
+		},
+		{
+			"offsets": [
+				150,
+				58
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "GANSO Down"
+		},
+		{
+			"offsets": [
+				150,
+				58
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "Gose Down Follador"
+		},
+		{
+			"offsets": [
+				125,
+				80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "Gose Right Follador"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				153,
+				86
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "Gose Idle Follador",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				151,
+				214
+			],
+			"anim": "whentejalaselganso",
+			"fps": 19,
+			"name": "whentejalaselganso",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/GANSO",
+	"position": [
+		150,
+		290
+	],
+	"healthicon": "GANSO",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-180,
+		-70
+	],
+	"sing_duration": 4,
+	"scale": 0.800000000000005
+}

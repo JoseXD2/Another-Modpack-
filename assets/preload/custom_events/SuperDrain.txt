@@ -1,0 +1,3 @@
+Insert anywhere to immediately begin draining health.
+Similar to Super Sonic's Ring drain in the final levels.
+       WARNING: HITTING ZERO *WILL* KILL YOU! 

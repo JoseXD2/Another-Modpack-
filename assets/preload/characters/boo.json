@@ -1,0 +1,188 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Boo_Idle instance"
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "stillidle",
+			"indices": [],
+			"name": "Boo_IdleStill instance"
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hapidle",
+			"indices": [],
+			"name": "Boo_IdleHapp instance"
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hstillidle",
+			"indices": [],
+			"name": "Boo_IdleStillHapp instance"
+		},
+		{
+			"offsets": [
+				99,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "1shock",
+			"indices": [],
+			"name": "BooIntro1 instance"
+		},
+		{
+			"offsets": [
+				145,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "2shock",
+			"indices": [],
+			"name": "BooIntro2 instance"
+		},
+		{
+			"offsets": [
+				164,
+				60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "3shock",
+			"indices": [],
+			"name": "BooIntro3 instance"
+		},
+		{
+			"offsets": [
+				87,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Boo_Left instance"
+		},
+		{
+			"offsets": [
+				-29,
+				-25
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Boo_Down instance"
+		},
+		{
+			"offsets": [
+				1,
+				23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Boo_Up instance"
+		},
+		{
+			"offsets": [
+				-52,
+				14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Boo_Right instance"
+		},
+		{
+			"offsets": [
+				84,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "Boo_LeftHapp instance"
+		},
+		{
+			"offsets": [
+				-41,
+				-17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "Boo_DownHapp instance"
+		},
+		{
+			"offsets": [
+				-12,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "Boo_UpHapp instance"
+		},
+		{
+			"offsets": [
+				-55,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "Boo_RightHapp instance"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Boo/BooSatPanicV1",
+	"position": [
+		-200,
+		220
+	],
+	"healthicon": "boo",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		0,
+		-300
+	],
+	"sing_duration": 4,
+	"scale": 1.3
+}

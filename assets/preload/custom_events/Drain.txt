@@ -1,0 +1,2 @@
+Steals health everytime its  called, useful for Illusion, Hallucination, Crusify, etc.
+Value 1 : How much health, half health is 1.

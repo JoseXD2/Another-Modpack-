@@ -1,0 +1,41 @@
+{
+	"songs": [
+		[
+			"Whoopee",
+			"sans",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Sansational",
+			"sans",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"sans",
+		"fun",
+		""
+	],
+	"storyName": " ",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="DodgeMechs.png">
+	
+	
+	<SubTexture name="Alarm 10000" x="5" y="5" width="455" height="249" />
+	<SubTexture name="Alarm 10001" x="465" y="5" width="455" height="249" />
+	<SubTexture name="Alarm 10002" x="5" y="5" width="455" height="249" />
+	<SubTexture name="Alarm 10003" x="465" y="5" width="455" height="249" />
+	<SubTexture name="Alarm 10004" x="5" y="5" width="455" height="249" />
+	<SubTexture name="Alarm 10005" x="465" y="5" width="455" height="249" />
+	<SubTexture name="Alarm 10006" x="5" y="5" width="455" height="249" />
+	<SubTexture name="Alarm 10007" x="465" y="5" width="455" height="249" />
+	<SubTexture name="Alarm 10008" x="5" y="5" width="455" height="249" />
+	<SubTexture name="Alarm 10009" x="465" y="5" width="455" height="249" />
+	<SubTexture name="Bones 0000" x="926" y="5" width="451" height="60" frameX="-13" frameY="-213" frameWidth="487" frameHeight="273" />
+	<SubTexture name="Bones 0001" x="1382" y="5" width="464" height="131" frameX="0" frameY="-142" frameWidth="487" frameHeight="273" />
+	<SubTexture name="Bones 0002" x="5" y="259" width="487" height="202" frameX="0" frameY="-71" frameWidth="487" frameHeight="273" />
+	<SubTexture name="Bones 0003" x="497" y="259" width="487" height="273" />
+	<SubTexture name="Bones 0004" x="989" y="259" width="487" height="267" frameX="0" frameY="-6" frameWidth="487" frameHeight="273" />
+	<SubTexture name="Bones 0005" x="1481" y="259" width="487" height="265" frameX="0" frameY="-8" frameWidth="487" frameHeight="273" />
+	<SubTexture name="Bones 0006" x="1481" y="259" width="487" height="265" frameX="0" frameY="-8" frameWidth="487" frameHeight="273" />
+	<SubTexture name="Bones 0007" x="1481" y="259" width="487" height="265" frameX="0" frameY="-8" frameWidth="487" frameHeight="273" />
+	<SubTexture name="Bones 0008" x="1481" y="259" width="487" height="265" frameX="0" frameY="-8" frameWidth="487" frameHeight="273" />
+	<SubTexture name="Bones 0009" x="1481" y="259" width="487" height="265" frameX="0" frameY="-8" frameWidth="487" frameHeight="273" />
+	<SubTexture name="Bones 0010" x="1481" y="259" width="487" height="265" frameX="0" frameY="-8" frameWidth="487" frameHeight="273" />
+	<SubTexture name="Bones 0011" x="1481" y="259" width="487" height="265" frameX="0" frameY="-8" frameWidth="487" frameHeight="273" />
+	<SubTexture name="Bones 0012" x="1481" y="259" width="487" height="265" frameX="0" frameY="-8" frameWidth="487" frameHeight="273" />
+	<SubTexture name="Bones 0013" x="5" y="537" width="487" height="264" frameX="0" frameY="-9" frameWidth="487" frameHeight="273" />
+	<SubTexture name="Bones 0014" x="497" y="537" width="487" height="262" frameX="0" frameY="-11" frameWidth="487" frameHeight="273" />
+	<SubTexture name="Bones 0015" x="989" y="537" width="487" height="259" frameX="0" frameY="-14" frameWidth="487" frameHeight="273" />
+	<SubTexture name="Bones 0016" x="1481" y="537" width="487" height="255" frameX="0" frameY="-18" frameWidth="487" frameHeight="273" />
+	<SubTexture name="Bones 0017" x="5" y="807" width="487" height="250" frameX="0" frameY="-23" frameWidth="487" frameHeight="273" />
+	<SubTexture name="Bones 0018" x="497" y="807" width="464" height="144" frameX="0" frameY="-129" frameWidth="487" frameHeight="273" />
+	<SubTexture name="Bones 0019" x="966" y="807" width="451" height="81" frameX="-13" frameY="-192" frameWidth="487" frameHeight="273" />
+	<SubTexture name="Bones 0020" x="926" y="5" width="451" height="60" frameX="-13" frameY="-213" frameWidth="487" frameHeight="273" />
+	<SubTexture name="Bones 0021" x="1422" y="807" width="99" height="35" frameX="-188" frameY="-238" frameWidth="487" frameHeight="273" />
+	<SubTexture name="Bones 0022" x="0" y="0" width="0" height="0" frameX="-188" frameY="-238" frameWidth="487" frameHeight="273" />
+	<SubTexture name="Dodge 10000" x="1531" y="807" width="222" height="180" frameX="0" frameY="-27" frameWidth="222" frameHeight="218" />
+	<SubTexture name="Dodge 10001" x="1758" y="807" width="193" height="208" frameX="-12" frameY="0" frameWidth="222" frameHeight="218" />
+	<SubTexture name="Dodge 10002" x="1758" y="807" width="193" height="208" frameX="-12" frameY="0" frameWidth="222" frameHeight="218" />
+	<SubTexture name="Dodge 10003" x="5" y="1062" width="203" height="202" frameX="-7" frameY="-6" frameWidth="222" frameHeight="218" />
+	<SubTexture name="Dodge 10004" x="5" y="1062" width="203" height="202" frameX="-7" frameY="-6" frameWidth="222" frameHeight="218" />
+	<SubTexture name="Dodge 10005" x="213" y="1062" width="203" height="202" frameX="-7" frameY="-6" frameWidth="222" frameHeight="218" />
+	<SubTexture name="Dodge 10006" x="421" y="1062" width="203" height="202" frameX="-7" frameY="-6" frameWidth="222" frameHeight="218" />
+	<SubTexture name="Dodge 10007" x="213" y="1062" width="203" height="202" frameX="-7" frameY="-6" frameWidth="222" frameHeight="218" />
+	<SubTexture name="Dodge 10008" x="421" y="1062" width="203" height="202" frameX="-7" frameY="-6" frameWidth="222" frameHeight="218" />
+	<SubTexture name="Dodge 10009" x="213" y="1062" width="203" height="202" frameX="-7" frameY="-6" frameWidth="222" frameHeight="218" />
+	<SubTexture name="Dodge 10010" x="421" y="1062" width="203" height="202" frameX="-7" frameY="-6" frameWidth="222" frameHeight="218" />
+	<SubTexture name="Dodge 10011" x="213" y="1062" width="203" height="202" frameX="-7" frameY="-6" frameWidth="222" frameHeight="218" />
+	<SubTexture name="Dodge 10012" x="421" y="1062" width="203" height="202" frameX="-7" frameY="-6" frameWidth="222" frameHeight="218" />
+	<SubTexture name="Dodge 10013" x="213" y="1062" width="203" height="202" frameX="-7" frameY="-6" frameWidth="222" frameHeight="218" />
+	<SubTexture name="Dodge 10014" x="421" y="1062" width="203" height="202" frameX="-7" frameY="-6" frameWidth="222" frameHeight="218" />
+	<SubTexture name="Dodge 10015" x="213" y="1062" width="203" height="202" frameX="-7" frameY="-6" frameWidth="222" frameHeight="218" />
+	<SubTexture name="Dodge 10016" x="421" y="1062" width="203" height="202" frameX="-7" frameY="-6" frameWidth="222" frameHeight="218" />
+	<SubTexture name="Dodge 10017" x="213" y="1062" width="203" height="202" frameX="-7" frameY="-6" frameWidth="222" frameHeight="218" />
+	<SubTexture name="Dodge 10018" x="421" y="1062" width="203" height="202" frameX="-7" frameY="-6" frameWidth="222" frameHeight="218" />
+	<SubTexture name="Dodge 10019" x="213" y="1062" width="203" height="202" frameX="-7" frameY="-6" frameWidth="222" frameHeight="218" />
+	<SubTexture name="Dodge 10020" x="421" y="1062" width="203" height="202" frameX="-7" frameY="-6" frameWidth="222" frameHeight="218" />
+	<SubTexture name="Dodge 10021" x="629" y="1062" width="194" height="198" frameX="-7" frameY="-10" frameWidth="222" frameHeight="218" />
+	<SubTexture name="Dodge 10022" x="629" y="1062" width="194" height="198" frameX="-7" frameY="-10" frameWidth="222" frameHeight="218" />
+	<SubTexture name="Dodge 10023" x="828" y="1062" width="204" height="200" frameX="-12" frameY="-18" frameWidth="222" frameHeight="218" />
+	<SubTexture name="Dodge 10024" x="828" y="1062" width="204" height="200" frameX="-12" frameY="-18" frameWidth="222" frameHeight="218" />
+    <SubTexture name="Dodge 10025" x="1" y="1" width="1" height="1" frameX="-12" frameY="-18" frameWidth="222" frameHeight="218" />
+</TextureAtlas>

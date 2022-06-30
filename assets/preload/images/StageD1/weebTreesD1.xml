@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="weebTreesD1.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="TreesD10000" x="0" y="0" width="313" height="82"/>
+	<SubTexture name="TreesD10001" x="313" y="0" width="313" height="82"/>
+	<SubTexture name="TreesD10002" x="626" y="0" width="313" height="82"/>
+	<SubTexture name="TreesD10003" x="0" y="82" width="313" height="82"/>
+	<SubTexture name="TreesD10004" x="313" y="82" width="313" height="82"/>
+	<SubTexture name="TreesD10005" x="626" y="82" width="313" height="82"/>
+	<SubTexture name="TreesD10006" x="0" y="164" width="313" height="82"/>
+	<SubTexture name="TreesD10007" x="313" y="164" width="313" height="82"/>
+	<SubTexture name="TreesD10008" x="313" y="164" width="313" height="82"/>
+	<SubTexture name="TreesD10009" x="313" y="164" width="313" height="82"/>
+	<SubTexture name="TreesD10010" x="626" y="164" width="313" height="82"/>
+	<SubTexture name="TreesD10011" x="0" y="246" width="313" height="82"/>
+	<SubTexture name="TreesD10012" x="313" y="246" width="313" height="82"/>
+	<SubTexture name="TreesD10013" x="626" y="246" width="313" height="82"/>
+	<SubTexture name="TreesD10014" x="313" y="164" width="313" height="82"/>
+	<SubTexture name="TreesD10015" x="313" y="164" width="313" height="82"/>
+	<SubTexture name="TreesD10016" x="0" y="328" width="313" height="82"/>
+	<SubTexture name="TreesD10017" x="313" y="328" width="313" height="82"/>
+	<SubTexture name="TreesD10018" x="626" y="328" width="313" height="82"/>
+	<SubTexture name="TreesD10019" x="0" y="410" width="313" height="82"/>
+</TextureAtlas>

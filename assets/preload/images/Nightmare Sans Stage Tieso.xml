@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Nightmare Sans Stage Tieso.png">
+	
+	
+	<SubTexture name="Normal instance 10000" x="5" y="5" width="644" height="362" />
+	<SubTexture name="dd instance 10000" x="5" y="377" width="641" height="193" frameX="0" frameY="0" frameWidth="641" frameHeight="195" />
+	<SubTexture name="sdfs instance 10000" x="659" y="5" width="643" height="361" />
+</TextureAtlas>

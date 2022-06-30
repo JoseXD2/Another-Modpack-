@@ -1,0 +1,6 @@
+Removes an image created by "Add Overlay"
+
+Value 1: Image Name
+ex. "Test" "fancy/BG1" "effects/epic/Screen Crack" 
+Value 2: Fade Duration
+ex. "0.1" "6" 

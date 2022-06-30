@@ -1,0 +1,104 @@
+{
+	"song": {
+		"speed": 2.9,
+		"stage": "skeld",
+		"player1": "bf-pet",
+		"player2": "mongus-pet",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Camera Zoom Speed",
+						"8",
+						"1"
+					],
+					[
+						"death bf",
+						"",
+						""
+					]
+				]
+			],
+			[
+				17142.8571428571,
+				[
+					[
+						"Camera Zoom Speed",
+						"4",
+						"1.2"
+					]
+				]
+			],
+			[
+				24000,
+				[
+					[
+						"Camera Zoom Speed",
+						"16",
+						"0"
+					]
+				]
+			],
+			[
+				24428.5714285714,
+				[
+					[
+						"Camera Zoom Speed",
+						"4",
+						"1"
+					]
+				]
+			],
+			[
+				44571.4285714286,
+				[
+					[
+						"Camera Zoom Speed",
+						"8",
+						"1"
+					]
+				]
+			],
+			[
+				58285.7142857143,
+				[
+					[
+						"Camera Zoom Speed",
+						"4",
+						"1.2"
+					]
+				]
+			],
+			[
+				65142.8571428572,
+				[
+					[
+						"Camera Zoom Speed",
+						"16",
+						"0"
+					]
+				]
+			],
+			[
+				65571.4285714286,
+				[
+					[
+						"Camera Zoom Speed",
+						"4",
+						"1"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-pet",
+		"bpm": 140,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Voted"
+	}
+}

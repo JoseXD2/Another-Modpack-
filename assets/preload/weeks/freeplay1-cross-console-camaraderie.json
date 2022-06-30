@@ -1,0 +1,21 @@
+{
+	"songs": [
+		["Cross Console Camaraderie", "console2", [255, 255, 255]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "",
+
+	"storyName": "Nintendo and SEGA",
+	"weekBefore": "cross-console-camaraderie",
+	"weekName": "Cross-Console-Camaraderie",
+	"difficulties": "Normal",
+	"startUnlocked": true,
+
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}

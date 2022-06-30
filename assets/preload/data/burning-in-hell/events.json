@@ -1,0 +1,99 @@
+{
+	"song": {
+		"speed": 3.2,
+		"stage": "hallDark",
+		"player1": "chara",
+		"player2": "sans-mad",
+		"player3": null,
+		"events": [
+			[
+				13941.1764705882,
+				[
+					[
+						"DodgeEvent",
+						"",
+						""
+					]
+				]
+			],
+			[
+				21882.3529411765,
+				[
+					[
+						"DodgeEvent",
+						"",
+						""
+					]
+				]
+			],
+			[
+				81441.1764705881,
+				[
+					[
+						"DodgeEvent",
+						"",
+						""
+					]
+				]
+			],
+			[
+				126176.470588235,
+				[
+					[
+						"DodgeEvent",
+						"",
+						""
+					]
+				]
+			],
+			[
+				129264.705882353,
+				[
+					[
+						"DodgeEvent",
+						"",
+						""
+					]
+				]
+			],
+			[
+				135882.352941176,
+				[
+					[
+						"DodgeEvent",
+						"",
+						""
+					]
+				]
+			],
+			[
+				148500,
+				[
+					[
+						"DodgeEvent",
+						"",
+						""
+					]
+				]
+			],
+			[
+				154235.294117647,
+				[
+					[
+						"DodgeEvent",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 170,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Burning-In-Hell"
+	}
+}

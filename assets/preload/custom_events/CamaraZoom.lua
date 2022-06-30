@@ -1,0 +1,28 @@
+function onCreate()
+makeLuaSprite('1PortPorAsbelSen', '1PortPorAsbelSen', 0, 0)
+setProperty('1PortPorAsbelSen.alpha', 1)
+setObjectCamera('1PortPorAsbelSen', 'other')
+end
+
+function onUpdate()
+if getProperty('1PortPorAsbelSen.alpha') == 0 then
+Asbelgod = true
+    end
+end
+
+function onEvent(name,value1,value2)
+    if name == "CamaraZoom" and not Asbelgod == true and not lowQuality then
+    if value2 == '' then
+    setProperty("defaultCamZoom",value1)
+	debugPrint(value2 )
+	else
+    doTweenZoom('camz','camGame',tonumber(value1),tonumber(value2),'sineInOut')
+	end      
+    end
+end
+
+function onTweenCompleted(name)
+if name == 'camz' then
+setProperty("defaultCamZoom",getProperty('camGame.zoom')) 
+end
+end

@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="GANSO.png"><SubTexture name="GANSO Down0000" x="1339" y="1788" width="640" height="480" frameX="0" frameY="0" frameWidth="641" frameHeight="481" />
+<SubTexture name="GANSO Down0001" x="1339" y="1788" width="640" height="480" frameX="0" frameY="0" frameWidth="641" frameHeight="481" />
+<SubTexture name="GANSO Down0002" x="2526" y="2747" width="521" height="419" frameX="-5" frameY="-15" frameWidth="641" frameHeight="481" />
+<SubTexture name="GANSO Down0003" x="2526" y="2747" width="521" height="419" frameX="-5" frameY="-15" frameWidth="641" frameHeight="481" />
+<SubTexture name="GANSO Down0004" x="2526" y="2747" width="521" height="419" frameX="-5" frameY="-15" frameWidth="641" frameHeight="481" />
+<SubTexture name="GANSO Down0005" x="2526" y="2747" width="521" height="419" frameX="-5" frameY="-15" frameWidth="641" frameHeight="481" />
+<SubTexture name="GANSO Down0006" x="2526" y="2747" width="521" height="419" frameX="-5" frameY="-15" frameWidth="641" frameHeight="481" />
+<SubTexture name="GANSO Down0007" x="2526" y="2747" width="521" height="419" frameX="-5" frameY="-15" frameWidth="641" frameHeight="481" />
+<SubTexture name="GANSO Down0008" x="2526" y="2747" width="521" height="419" frameX="-5" frameY="-15" frameWidth="641" frameHeight="481" />
+<SubTexture name="GANSO Down0009" x="2526" y="2747" width="521" height="419" frameX="-5" frameY="-15" frameWidth="641" frameHeight="481" />
+<SubTexture name="GANSO Down0010" x="2526" y="2747" width="521" height="419" frameX="-5" frameY="-15" frameWidth="641" frameHeight="481" />
+<SubTexture name="GANSO Down0011" x="2526" y="2747" width="521" height="419" frameX="-5" frameY="-15" frameWidth="641" frameHeight="481" />
+<SubTexture name="GANSO Down0012" x="2526" y="2747" width="521" height="419" frameX="-5" frameY="-15" frameWidth="641" frameHeight="481" />
+<SubTexture name="GANSO Down0013" x="2526" y="2747" width="521" height="419" frameX="-5" frameY="-15" frameWidth="641" frameHeight="481" />
+<SubTexture name="Gose Down Follador0000" x="2582" y="0" width="640" height="480" frameX="0" frameY="0" frameWidth="641" frameHeight="481" />
+<SubTexture name="Gose Down Follador0001" x="2582" y="0" width="640" height="480" frameX="0" frameY="0" frameWidth="641" frameHeight="481" />
+<SubTexture name="Gose Down Follador0002" x="3222" y="0" width="521" height="419" frameX="-5" frameY="-15" frameWidth="641" frameHeight="481" />
+<SubTexture name="Gose Down Follador0003" x="3222" y="0" width="521" height="419" frameX="-5" frameY="-15" frameWidth="641" frameHeight="481" />
+<SubTexture name="Gose Down Follador0004" x="3222" y="0" width="521" height="419" frameX="-5" frameY="-15" frameWidth="641" frameHeight="481" />
+<SubTexture name="Gose Down Follador0005" x="3222" y="0" width="521" height="419" frameX="-5" frameY="-15" frameWidth="641" frameHeight="481" />
+<SubTexture name="Gose Down Follador0006" x="3222" y="0" width="521" height="419" frameX="-5" frameY="-15" frameWidth="641" frameHeight="481" />
+<SubTexture name="Gose Down Follador0007" x="3222" y="0" width="521" height="419" frameX="-5" frameY="-15" frameWidth="641" frameHeight="481" />
+<SubTexture name="Gose Down Follador0008" x="3222" y="0" width="521" height="419" frameX="-5" frameY="-15" frameWidth="641" frameHeight="481" />
+<SubTexture name="Gose Down Follador0009" x="3222" y="0" width="521" height="419" frameX="-5" frameY="-15" frameWidth="641" frameHeight="481" />
+<SubTexture name="Gose Down Follador0010" x="3222" y="0" width="521" height="419" frameX="-5" frameY="-15" frameWidth="641" frameHeight="481" />
+<SubTexture name="Gose Down Follador0011" x="3222" y="0" width="521" height="419" frameX="-5" frameY="-15" frameWidth="641" frameHeight="481" />
+<SubTexture name="Gose Down Follador0012" x="3222" y="0" width="521" height="419" frameX="-5" frameY="-15" frameWidth="641" frameHeight="481" />
+<SubTexture name="Gose Down Follador0013" x="3222" y="0" width="521" height="419" frameX="-5" frameY="-15" frameWidth="641" frameHeight="481" />
+<SubTexture name="GANSO Idle0000" x="1764" y="2747" width="375" height="432" frameX="0" frameY="-37" frameWidth="375" frameHeight="470" />
+<SubTexture name="GANSO Idle0001" x="1764" y="2747" width="375" height="432" frameX="0" frameY="-36" frameWidth="375" frameHeight="470" />
+<SubTexture name="GANSO Idle0002" x="0" y="2747" width="365" height="445" frameX="-2" frameY="-24" frameWidth="375" frameHeight="470" />
+<SubTexture name="GANSO Idle0003" x="0" y="2747" width="365" height="445" frameX="-2" frameY="-23" frameWidth="375" frameHeight="470" />
+<SubTexture name="GANSO Idle0004" x="1078" y="2278" width="352" height="468" frameX="-3" frameY="-1" frameWidth="375" frameHeight="470" />
+<SubTexture name="GANSO Idle0005" x="1078" y="2278" width="352" height="468" frameX="-3" frameY="0" frameWidth="375" frameHeight="470" />
+<SubTexture name="GANSO Idle0006" x="1979" y="1788" width="356" height="469" frameX="-3" frameY="0" frameWidth="375" frameHeight="470" />
+<SubTexture name="GANSO Idle0007" x="1979" y="1788" width="356" height="469" frameX="-3" frameY="0" frameWidth="375" frameHeight="470" />
+<SubTexture name="GANSO Idle0008" x="1979" y="1788" width="356" height="469" frameX="-3" frameY="0" frameWidth="375" frameHeight="470" />
+<SubTexture name="GANSO Idle0009" x="1979" y="1788" width="356" height="469" frameX="-3" frameY="0" frameWidth="375" frameHeight="470" />
+<SubTexture name="GANSO Idle0010" x="1979" y="1788" width="356" height="469" frameX="-3" frameY="0" frameWidth="375" frameHeight="470" />
+<SubTexture name="GANSO Idle0011" x="1979" y="1788" width="356" height="469" frameX="-3" frameY="0" frameWidth="375" frameHeight="470" />
+<SubTexture name="GANSO Idle0012" x="1979" y="1788" width="356" height="469" frameX="-3" frameY="0" frameWidth="375" frameHeight="470" />
+<SubTexture name="GANSO Idle0013" x="1979" y="1788" width="356" height="469" frameX="-3" frameY="0" frameWidth="375" frameHeight="470" />
+<SubTexture name="Gose Idle Follador0000" x="2139" y="2747" width="387" height="432" frameX="0" frameY="-37" frameWidth="387" frameHeight="470" />
+<SubTexture name="Gose Idle Follador0001" x="2139" y="2747" width="387" height="432" frameX="0" frameY="-36" frameWidth="387" frameHeight="470" />
+<SubTexture name="Gose Idle Follador0002" x="365" y="2747" width="375" height="445" frameX="-2" frameY="-24" frameWidth="387" frameHeight="470" />
+<SubTexture name="Gose Idle Follador0003" x="365" y="2747" width="375" height="445" frameX="-2" frameY="-23" frameWidth="387" frameHeight="470" />
+<SubTexture name="Gose Idle Follador0004" x="1430" y="2278" width="359" height="468" frameX="-3" frameY="-1" frameWidth="387" frameHeight="470" />
+<SubTexture name="Gose Idle Follador0005" x="1430" y="2278" width="359" height="468" frameX="-3" frameY="0" frameWidth="387" frameHeight="470" />
+<SubTexture name="Gose Idle Follador0006" x="0" y="2278" width="364" height="469" frameX="-3" frameY="0" frameWidth="387" frameHeight="470" />
+<SubTexture name="Gose Idle Follador0007" x="0" y="2278" width="364" height="469" frameX="-3" frameY="0" frameWidth="387" frameHeight="470" />
+<SubTexture name="Gose Idle Follador0008" x="0" y="2278" width="364" height="469" frameX="-3" frameY="0" frameWidth="387" frameHeight="470" />
+<SubTexture name="Gose Idle Follador0009" x="0" y="2278" width="364" height="469" frameX="-3" frameY="0" frameWidth="387" frameHeight="470" />
+<SubTexture name="Gose Idle Follador0010" x="0" y="2278" width="364" height="469" frameX="-3" frameY="0" frameWidth="387" frameHeight="470" />
+<SubTexture name="Gose Idle Follador0011" x="0" y="2278" width="364" height="469" frameX="-3" frameY="0" frameWidth="387" frameHeight="470" />
+<SubTexture name="Gose Idle Follador0012" x="0" y="2278" width="364" height="469" frameX="-3" frameY="0" frameWidth="387" frameHeight="470" />
+<SubTexture name="Gose Idle Follador0013" x="0" y="2278" width="364" height="469" frameX="-3" frameY="0" frameWidth="387" frameHeight="470" />
+<SubTexture name="GANSO Left0000" x="1201" y="1247" width="512" height="518" frameX="0" frameY="0" frameWidth="523" frameHeight="518" />
+<SubTexture name="GANSO Left0001" x="1201" y="1247" width="512" height="518" frameX="0" frameY="0" frameWidth="523" frameHeight="518" />
+<SubTexture name="GANSO Left0002" x="0" y="1788" width="519" height="490" frameX="-3" frameY="-28" frameWidth="523" frameHeight="518" />
+<SubTexture name="GANSO Left0003" x="0" y="1788" width="519" height="490" frameX="-3" frameY="-28" frameWidth="523" frameHeight="518" />
+<SubTexture name="GANSO Left0004" x="0" y="1788" width="519" height="490" frameX="-3" frameY="-28" frameWidth="523" frameHeight="518" />
+<SubTexture name="GANSO Left0005" x="0" y="1788" width="519" height="490" frameX="-3" frameY="-28" frameWidth="523" frameHeight="518" />
+<SubTexture name="GANSO Left0006" x="0" y="1788" width="519" height="490" frameX="-3" frameY="-28" frameWidth="523" frameHeight="518" />
+<SubTexture name="GANSO Left0007" x="0" y="1788" width="519" height="490" frameX="-3" frameY="-28" frameWidth="523" frameHeight="518" />
+<SubTexture name="GANSO Left0008" x="0" y="1788" width="519" height="490" frameX="-3" frameY="-28" frameWidth="523" frameHeight="518" />
+<SubTexture name="GANSO Left0009" x="0" y="1788" width="519" height="490" frameX="-3" frameY="-28" frameWidth="523" frameHeight="518" />
+<SubTexture name="GANSO Left0010" x="0" y="1788" width="519" height="490" frameX="-3" frameY="-28" frameWidth="523" frameHeight="518" />
+<SubTexture name="GANSO Left0011" x="0" y="1788" width="519" height="490" frameX="-3" frameY="-28" frameWidth="523" frameHeight="518" />
+<SubTexture name="GANSO Left0012" x="0" y="1788" width="519" height="490" frameX="-3" frameY="-28" frameWidth="523" frameHeight="518" />
+<SubTexture name="GANSO Left0013" x="0" y="1788" width="519" height="490" frameX="-3" frameY="-28" frameWidth="523" frameHeight="518" />
+<SubTexture name="Gose Left Follador0000" x="2070" y="0" width="512" height="518" frameX="0" frameY="0" frameWidth="523" frameHeight="518" />
+<SubTexture name="Gose Left Follador0001" x="2070" y="0" width="512" height="518" frameX="0" frameY="0" frameWidth="523" frameHeight="518" />
+<SubTexture name="Gose Left Follador0002" x="519" y="1788" width="519" height="490" frameX="-3" frameY="-28" frameWidth="523" frameHeight="518" />
+<SubTexture name="Gose Left Follador0003" x="519" y="1788" width="519" height="490" frameX="-3" frameY="-28" frameWidth="523" frameHeight="518" />
+<SubTexture name="Gose Left Follador0004" x="519" y="1788" width="519" height="490" frameX="-3" frameY="-28" frameWidth="523" frameHeight="518" />
+<SubTexture name="Gose Left Follador0005" x="519" y="1788" width="519" height="490" frameX="-3" frameY="-28" frameWidth="523" frameHeight="518" />
+<SubTexture name="Gose Left Follador0006" x="519" y="1788" width="519" height="490" frameX="-3" frameY="-28" frameWidth="523" frameHeight="518" />
+<SubTexture name="Gose Left Follador0007" x="519" y="1788" width="519" height="490" frameX="-3" frameY="-28" frameWidth="523" frameHeight="518" />
+<SubTexture name="Gose Left Follador0008" x="519" y="1788" width="519" height="490" frameX="-3" frameY="-28" frameWidth="523" frameHeight="518" />
+<SubTexture name="Gose Left Follador0009" x="519" y="1788" width="519" height="490" frameX="-3" frameY="-28" frameWidth="523" frameHeight="518" />
+<SubTexture name="Gose Left Follador0010" x="519" y="1788" width="519" height="490" frameX="-3" frameY="-28" frameWidth="523" frameHeight="518" />
+<SubTexture name="Gose Left Follador0011" x="519" y="1788" width="519" height="490" frameX="-3" frameY="-28" frameWidth="523" frameHeight="518" />
+<SubTexture name="Gose Left Follador0012" x="519" y="1788" width="519" height="490" frameX="-3" frameY="-28" frameWidth="523" frameHeight="518" />
+<SubTexture name="Gose Left Follador0013" x="519" y="1788" width="519" height="490" frameX="-3" frameY="-28" frameWidth="523" frameHeight="518" />
+<SubTexture name="whentejalaselganso0000" x="1979" y="1788" width="356" height="469" frameX="0" frameY="-162" frameWidth="375" frameHeight="470" />
+<SubTexture name="whentejalaselganso0001" x="1979" y="1788" width="356" height="469" frameX="0" frameY="-162" frameWidth="375" frameHeight="470" />
+<SubTexture name="whentejalaselganso0002" x="2883" y="1426" width="324" height="469" frameX="-9" frameY="-162" frameWidth="364" frameHeight="632" />
+<SubTexture name="whentejalaselganso0003" x="2883" y="1426" width="324" height="469" frameX="-9" frameY="-162" frameWidth="364" frameHeight="632" />
+<SubTexture name="whentejalaselganso0004" x="2883" y="480" width="302" height="470" frameX="-26" frameY="-161" frameWidth="364" frameHeight="632" />
+<SubTexture name="whentejalaselganso0005" x="2883" y="480" width="302" height="470" frameX="-26" frameY="-161" frameWidth="364" frameHeight="632" />
+<SubTexture name="whentejalaselganso0006" x="866" y="0" width="301" height="631" frameX="-23" frameY="0" frameWidth="364" frameHeight="632" />
+<SubTexture name="whentejalaselganso0007" x="1167" y="0" width="301" height="620" frameX="-23" frameY="-11" frameWidth="364" frameHeight="632" />
+<SubTexture name="whentejalaselganso0008" x="0" y="637" width="301" height="610" frameX="-23" frameY="-21" frameWidth="364" frameHeight="632" />
+<SubTexture name="whentejalaselganso0009" x="301" y="637" width="301" height="600" frameX="-23" frameY="-31" frameWidth="364" frameHeight="632" />
+<SubTexture name="whentejalaselganso0010" x="602" y="637" width="301" height="589" frameX="-23" frameY="-42" frameWidth="364" frameHeight="632" />
+<SubTexture name="whentejalaselganso0011" x="903" y="637" width="301" height="579" frameX="-23" frameY="-52" frameWidth="364" frameHeight="632" />
+<SubTexture name="whentejalaselganso0012" x="1468" y="0" width="301" height="569" frameX="-23" frameY="-62" frameWidth="364" frameHeight="632" />
+<SubTexture name="whentejalaselganso0013" x="1468" y="569" width="301" height="558" frameX="-23" frameY="-73" frameWidth="364" frameHeight="632" />
+<SubTexture name="whentejalaselganso0014" x="1769" y="0" width="301" height="548" frameX="-23" frameY="-83" frameWidth="364" frameHeight="632" />
+<SubTexture name="whentejalaselganso0015" x="1769" y="548" width="301" height="538" frameX="-23" frameY="-93" frameWidth="364" frameHeight="632" />
+<SubTexture name="whentejalaselganso0016" x="900" y="1247" width="301" height="527" frameX="-23" frameY="-104" frameWidth="364" frameHeight="632" />
+<SubTexture name="whentejalaselganso0017" x="2070" y="518" width="301" height="517" frameX="-23" frameY="-114" frameWidth="364" frameHeight="632" />
+<SubTexture name="whentejalaselganso0018" x="2070" y="1035" width="301" height="507" frameX="-23" frameY="-124" frameWidth="364" frameHeight="632" />
+<SubTexture name="whentejalaselganso0019" x="1713" y="1247" width="301" height="496" frameX="-23" frameY="-135" frameWidth="364" frameHeight="632" />
+<SubTexture name="whentejalaselganso0020" x="1038" y="1788" width="301" height="486" frameX="-23" frameY="-145" frameWidth="364" frameHeight="632" />
+<SubTexture name="whentejalaselganso0021" x="2582" y="480" width="301" height="476" frameX="-23" frameY="-155" frameWidth="364" frameHeight="632" />
+<SubTexture name="whentejalaselganso0022" x="2582" y="956" width="301" height="470" frameX="-23" frameY="-161" frameWidth="364" frameHeight="632" />
+<SubTexture name="whentejalaselganso0023" x="2883" y="956" width="301" height="470" frameX="-23" frameY="-161" frameWidth="364" frameHeight="632" />
+<SubTexture name="whentejalaselganso0024" x="2582" y="1426" width="301" height="470" frameX="-23" frameY="-161" frameWidth="364" frameHeight="632" />
+<SubTexture name="whentejalaselganso0025" x="2582" y="1426" width="301" height="470" frameX="-23" frameY="-161" frameWidth="364" frameHeight="632" />
+<SubTexture name="whentejalaselganso0026" x="2582" y="1426" width="301" height="470" frameX="-23" frameY="-161" frameWidth="364" frameHeight="632" />
+<SubTexture name="whentejalaselganso0027" x="364" y="2278" width="350" height="469" frameX="-9" frameY="-162" frameWidth="364" frameHeight="632" />
+<SubTexture name="whentejalaselganso0028" x="364" y="2278" width="350" height="469" frameX="-9" frameY="-162" frameWidth="364" frameHeight="632" />
+<SubTexture name="whentejalaselganso0029" x="714" y="2278" width="364" height="469" frameX="0" frameY="-162" frameWidth="364" frameHeight="632" />
+<SubTexture name="whentejalaselganso0030" x="714" y="2278" width="364" height="469" frameX="0" frameY="-162" frameWidth="364" frameHeight="632" />
+<SubTexture name="GANSO Right0000" x="1789" y="2278" width="593" height="453" frameX="-38" frameY="0" frameWidth="632" frameHeight="463" />
+<SubTexture name="GANSO Right0001" x="1789" y="2278" width="593" height="453" frameX="-37" frameY="0" frameWidth="632" frameHeight="463" />
+<SubTexture name="GANSO Right0002" x="740" y="2747" width="512" height="437" frameX="0" frameY="-26" frameWidth="632" frameHeight="463" />
+<SubTexture name="GANSO Right0003" x="740" y="2747" width="512" height="437" frameX="0" frameY="-26" frameWidth="632" frameHeight="463" />
+<SubTexture name="GANSO Right0004" x="740" y="2747" width="512" height="437" frameX="0" frameY="-26" frameWidth="632" frameHeight="463" />
+<SubTexture name="GANSO Right0005" x="740" y="2747" width="512" height="437" frameX="0" frameY="-26" frameWidth="632" frameHeight="463" />
+<SubTexture name="GANSO Right0006" x="740" y="2747" width="512" height="437" frameX="0" frameY="-26" frameWidth="632" frameHeight="463" />
+<SubTexture name="GANSO Right0007" x="740" y="2747" width="512" height="437" frameX="0" frameY="-26" frameWidth="632" frameHeight="463" />
+<SubTexture name="GANSO Right0008" x="740" y="2747" width="512" height="437" frameX="0" frameY="-26" frameWidth="632" frameHeight="463" />
+<SubTexture name="GANSO Right0009" x="740" y="2747" width="512" height="437" frameX="0" frameY="-26" frameWidth="632" frameHeight="463" />
+<SubTexture name="GANSO Right0010" x="740" y="2747" width="512" height="437" frameX="0" frameY="-26" frameWidth="632" frameHeight="463" />
+<SubTexture name="GANSO Right0011" x="740" y="2747" width="512" height="437" frameX="0" frameY="-26" frameWidth="632" frameHeight="463" />
+<SubTexture name="GANSO Right0012" x="740" y="2747" width="512" height="437" frameX="0" frameY="-26" frameWidth="632" frameHeight="463" />
+<SubTexture name="GANSO Right0013" x="740" y="2747" width="512" height="437" frameX="0" frameY="-26" frameWidth="632" frameHeight="463" />
+<SubTexture name="Gose Right Follador0000" x="2382" y="2278" width="593" height="453" frameX="-38" frameY="0" frameWidth="632" frameHeight="463" />
+<SubTexture name="Gose Right Follador0001" x="2382" y="2278" width="593" height="453" frameX="-37" frameY="0" frameWidth="632" frameHeight="463" />
+<SubTexture name="Gose Right Follador0002" x="1252" y="2747" width="512" height="437" frameX="0" frameY="-26" frameWidth="632" frameHeight="463" />
+<SubTexture name="Gose Right Follador0003" x="1252" y="2747" width="512" height="437" frameX="0" frameY="-26" frameWidth="632" frameHeight="463" />
+<SubTexture name="Gose Right Follador0004" x="1252" y="2747" width="512" height="437" frameX="0" frameY="-26" frameWidth="632" frameHeight="463" />
+<SubTexture name="Gose Right Follador0005" x="1252" y="2747" width="512" height="437" frameX="0" frameY="-26" frameWidth="632" frameHeight="463" />
+<SubTexture name="Gose Right Follador0006" x="1252" y="2747" width="512" height="437" frameX="0" frameY="-26" frameWidth="632" frameHeight="463" />
+<SubTexture name="Gose Right Follador0007" x="1252" y="2747" width="512" height="437" frameX="0" frameY="-26" frameWidth="632" frameHeight="463" />
+<SubTexture name="Gose Right Follador0008" x="1252" y="2747" width="512" height="437" frameX="0" frameY="-26" frameWidth="632" frameHeight="463" />
+<SubTexture name="Gose Right Follador0009" x="1252" y="2747" width="512" height="437" frameX="0" frameY="-26" frameWidth="632" frameHeight="463" />
+<SubTexture name="Gose Right Follador0010" x="1252" y="2747" width="512" height="437" frameX="0" frameY="-26" frameWidth="632" frameHeight="463" />
+<SubTexture name="Gose Right Follador0011" x="1252" y="2747" width="512" height="437" frameX="0" frameY="-26" frameWidth="632" frameHeight="463" />
+<SubTexture name="Gose Right Follador0012" x="1252" y="2747" width="512" height="437" frameX="0" frameY="-26" frameWidth="632" frameHeight="463" />
+<SubTexture name="Gose Right Follador0013" x="1252" y="2747" width="512" height="437" frameX="0" frameY="-26" frameWidth="632" frameHeight="463" />
+<SubTexture name="GANSO Up0000" x="0" y="0" width="433" height="637" frameX="-15" frameY="0" frameWidth="450" frameHeight="638" />
+<SubTexture name="GANSO Up0001" x="0" y="0" width="433" height="637" frameX="-15" frameY="0" frameWidth="450" frameHeight="638" />
+<SubTexture name="GANSO Up0002" x="0" y="1247" width="450" height="541" frameX="0" frameY="-96" frameWidth="450" frameHeight="638" />
+<SubTexture name="GANSO Up0003" x="0" y="1247" width="450" height="541" frameX="0" frameY="-96" frameWidth="450" frameHeight="638" />
+<SubTexture name="GANSO Up0004" x="0" y="1247" width="450" height="541" frameX="0" frameY="-96" frameWidth="450" frameHeight="638" />
+<SubTexture name="GANSO Up0005" x="0" y="1247" width="450" height="541" frameX="0" frameY="-96" frameWidth="450" frameHeight="638" />
+<SubTexture name="GANSO Up0006" x="0" y="1247" width="450" height="541" frameX="0" frameY="-96" frameWidth="450" frameHeight="638" />
+<SubTexture name="GANSO Up0007" x="0" y="1247" width="450" height="541" frameX="0" frameY="-96" frameWidth="450" frameHeight="638" />
+<SubTexture name="GANSO Up0008" x="0" y="1247" width="450" height="541" frameX="0" frameY="-96" frameWidth="450" frameHeight="638" />
+<SubTexture name="GANSO Up0009" x="0" y="1247" width="450" height="541" frameX="0" frameY="-96" frameWidth="450" frameHeight="638" />
+<SubTexture name="GANSO Up0010" x="0" y="1247" width="450" height="541" frameX="0" frameY="-96" frameWidth="450" frameHeight="638" />
+<SubTexture name="GANSO Up0011" x="0" y="1247" width="450" height="541" frameX="0" frameY="-96" frameWidth="450" frameHeight="638" />
+<SubTexture name="GANSO Up0012" x="0" y="1247" width="450" height="541" frameX="0" frameY="-96" frameWidth="450" frameHeight="638" />
+<SubTexture name="GANSO Up0013" x="0" y="1247" width="450" height="541" frameX="0" frameY="-96" frameWidth="450" frameHeight="638" />
+<SubTexture name="Gose Up Follador0000" x="433" y="0" width="433" height="637" frameX="-15" frameY="0" frameWidth="450" frameHeight="638" />
+<SubTexture name="Gose Up Follador0001" x="433" y="0" width="433" height="637" frameX="-15" frameY="0" frameWidth="450" frameHeight="638" />
+<SubTexture name="Gose Up Follador0002" x="450" y="1247" width="450" height="541" frameX="0" frameY="-96" frameWidth="450" frameHeight="638" />
+<SubTexture name="Gose Up Follador0003" x="450" y="1247" width="450" height="541" frameX="0" frameY="-96" frameWidth="450" frameHeight="638" />
+<SubTexture name="Gose Up Follador0004" x="450" y="1247" width="450" height="541" frameX="0" frameY="-96" frameWidth="450" frameHeight="638" />
+<SubTexture name="Gose Up Follador0005" x="450" y="1247" width="450" height="541" frameX="0" frameY="-96" frameWidth="450" frameHeight="638" />
+<SubTexture name="Gose Up Follador0006" x="450" y="1247" width="450" height="541" frameX="0" frameY="-96" frameWidth="450" frameHeight="638" />
+<SubTexture name="Gose Up Follador0007" x="450" y="1247" width="450" height="541" frameX="0" frameY="-96" frameWidth="450" frameHeight="638" />
+<SubTexture name="Gose Up Follador0008" x="450" y="1247" width="450" height="541" frameX="0" frameY="-96" frameWidth="450" frameHeight="638" />
+<SubTexture name="Gose Up Follador0009" x="450" y="1247" width="450" height="541" frameX="0" frameY="-96" frameWidth="450" frameHeight="638" />
+<SubTexture name="Gose Up Follador0010" x="450" y="1247" width="450" height="541" frameX="0" frameY="-96" frameWidth="450" frameHeight="638" />
+<SubTexture name="Gose Up Follador0011" x="450" y="1247" width="450" height="541" frameX="0" frameY="-96" frameWidth="450" frameHeight="638" />
+<SubTexture name="Gose Up Follador0012" x="450" y="1247" width="450" height="541" frameX="0" frameY="-96" frameWidth="450" frameHeight="638" />
+<SubTexture name="Gose Up Follador0013" x="450" y="1247" width="450" height="541" frameX="0" frameY="-96" frameWidth="450" frameHeight="638" />
+</TextureAtlas>

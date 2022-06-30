@@ -1,0 +1,146 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bgCrew.png"><SubTexture name="crewmates0000" x="0" y="0" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates0001" x="0" y="0" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates0002" x="0" y="0" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates0003" x="0" y="0" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates0004" x="0" y="0" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates0005" x="0" y="0" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates0006" x="0" y="0" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates0007" x="0" y="0" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates0008" x="0" y="0" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates0009" x="0" y="0" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates0010" x="0" y="0" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates0011" x="0" y="0" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates0012" x="0" y="0" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates0013" x="0" y="0" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates0014" x="0" y="0" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates0015" x="0" y="0" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates0016" x="0" y="0" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates0017" x="0" y="0" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates0018" x="0" y="0" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates0019" x="0" y="0" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates0020" x="0" y="0" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates0021" x="0" y="0" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates0022" x="0" y="0" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates0023" x="0" y="0" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates0024" x="0" y="0" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates0025" x="0" y="0" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates0026" x="0" y="0" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates0027" x="0" y="0" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates0028" x="0" y="0" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates0029" x="0" y="0" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates0030" x="0" y="0" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates0031" x="0" y="0" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates0032" x="0" y="0" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates0033" x="0" y="0" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates0034" x="0" y="0" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates0035" x="0" y="0" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates0036" x="0" y="0" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates0037" x="0" y="0" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates0038" x="0" y="0" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates0039" x="0" y="0" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates0040" x="0" y="0" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates0041" x="0" y="0" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates0042" x="0" y="0" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates0043" x="0" y="0" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates0044" x="0" y="0" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates0045" x="0" y="0" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates0046" x="0" y="0" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates0047" x="0" y="0" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates0048" x="0" y="0" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates0049" x="0" y="0" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates0050" x="0" y="0" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates0051" x="0" y="0" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates0052" x="0" y="0" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates0053" x="0" y="0" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates0054" x="0" y="0" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates0055" x="0" y="0" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates0056" x="0" y="0" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates0057" x="0" y="0" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates0058" x="0" y="0" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates0059" x="0" y="0" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates0060" x="0" y="0" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates0061" x="0" y="0" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates0062" x="0" y="0" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates0063" x="0" y="0" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates0064" x="0" y="0" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates0065" x="0" y="0" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates0066" x="0" y="0" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates0067" x="0" y="0" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates0068" x="0" y="0" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates0069" x="0" y="0" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates0070" x="0" y="0" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates0071" x="0" y="0" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates turned0000" x="0" y="240" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates turned0001" x="0" y="240" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates turned0002" x="0" y="240" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates turned0003" x="0" y="240" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates turned0004" x="0" y="240" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates turned0005" x="0" y="240" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates turned0006" x="0" y="240" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates turned0007" x="0" y="240" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates turned0008" x="0" y="240" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates turned0009" x="0" y="240" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates turned0010" x="0" y="240" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates turned0011" x="0" y="240" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates turned0012" x="0" y="240" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates turned0013" x="0" y="240" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates turned0014" x="0" y="240" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates turned0015" x="0" y="240" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates turned0016" x="0" y="240" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates turned0017" x="0" y="240" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates turned0018" x="0" y="240" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates turned0019" x="0" y="240" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates turned0020" x="0" y="240" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates turned0021" x="0" y="240" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates turned0022" x="0" y="240" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates turned0023" x="0" y="240" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates turned0024" x="0" y="240" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates turned0025" x="0" y="240" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates turned0026" x="0" y="240" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates turned0027" x="0" y="240" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates turned0028" x="0" y="240" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates turned0029" x="0" y="240" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates turned0030" x="0" y="240" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates turned0031" x="0" y="240" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates turned0032" x="0" y="240" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates turned0033" x="0" y="240" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates turned0034" x="0" y="240" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates turned0035" x="0" y="240" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates turned0036" x="0" y="240" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates turned0037" x="0" y="240" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates turned0038" x="0" y="240" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates turned0039" x="0" y="240" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates turned0040" x="0" y="240" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates turned0041" x="0" y="240" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates turned0042" x="0" y="240" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates turned0043" x="0" y="240" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates turned0044" x="0" y="240" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates turned0045" x="0" y="240" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates turned0046" x="0" y="240" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates turned0047" x="0" y="240" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates turned0048" x="0" y="240" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates turned0049" x="0" y="240" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates turned0050" x="0" y="240" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates turned0051" x="0" y="240" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates turned0052" x="0" y="240" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates turned0053" x="0" y="240" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates turned0054" x="0" y="240" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates turned0055" x="0" y="240" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates turned0056" x="0" y="240" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates turned0057" x="0" y="240" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates turned0058" x="0" y="240" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates turned0059" x="0" y="240" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates turned0060" x="0" y="240" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates turned0061" x="0" y="240" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates turned0062" x="0" y="240" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates turned0063" x="0" y="240" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates turned0064" x="0" y="240" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates turned0065" x="0" y="240" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates turned0066" x="0" y="240" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates turned0067" x="0" y="240" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates turned0068" x="0" y="240" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates turned0069" x="0" y="240" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates turned0070" x="0" y="240" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+<SubTexture name="crewmates turned0071" x="0" y="240" width="974" height="240" frameX="0" frameY="0" frameWidth="974" frameHeight="240" />
+</TextureAtlas>

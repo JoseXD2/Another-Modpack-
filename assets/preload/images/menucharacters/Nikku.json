@@ -1,0 +1,10 @@
+{
+	"confirm_anim": "NikkuIDLE",
+	"idle_anim": "NikkuIDLE",
+	"position": [
+		130,
+		123
+	],
+	"scale": 0.75,
+	"image": "Nikku"
+}

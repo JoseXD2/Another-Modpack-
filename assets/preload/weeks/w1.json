@@ -1,0 +1,26 @@
+{
+	"storyName": "",
+	"difficulties": "normal",
+	"hideFreeplay": false,
+	"weekBackground": "xd",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"nikku",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"broadcasting",
+			"no",
+			[
+				100,
+				100,
+				100
+			]
+		]
+	],
+	"weekName": "broadcasting"
+}

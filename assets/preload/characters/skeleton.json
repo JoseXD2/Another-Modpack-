@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				80,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Skeleton NOTE LEFT"
+		},
+		{
+			"offsets": [
+				-5,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Skeleton NOTE Right"
+		},
+		{
+			"offsets": [
+				-40,
+				-251
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Skeleton NOTE DOWN"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "SkeletonE Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				75,
+				8
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "SkeletonE NOTE LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				1
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "SkeletonE NOTE Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				-251
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "SkeletonE NOTE DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				64,
+				69
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Skeleton NOTE UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				64,
+				69
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "SkeletonE NOTE UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "Skeleton Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "Skeleton Idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/skeleton",
+	"position": [
+		170,
+		420
+	],
+	"healthicon": "skeleton",
+	"flip_x": false,
+	"healthbar_colors": [
+		142,
+		82,
+		89
+	],
+	"camera_position": [
+		-150,
+		-110
+	],
+	"sing_duration": 4,
+	"scale": 2
+}

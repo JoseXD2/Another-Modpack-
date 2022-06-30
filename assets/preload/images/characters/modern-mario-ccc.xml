@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="mario-ccc.png">
+<SubTexture name="idle0000" x="0" y="0" width="48" height="48" frameX="0" frameY="0" frameWidth="48" frameHeight="48" />
+<SubTexture name="idle0001" x="48" y="0" width="48" height="48" frameX="0" frameY="0" frameWidth="48" frameHeight="48" />
+<SubTexture name="idle0002" x="96" y="0" width="48" height="48" frameX="0" frameY="0" frameWidth="48" frameHeight="48" />
+<SubTexture name="idle0003" x="144" y="0" width="48" height="48" frameX="0" frameY="0" frameWidth="48" frameHeight="48" />
+
+<SubTexture name="right0000" x="0" y="48" width="48" height="48" frameX="0" frameY="0" frameWidth="48" frameHeight="48" />
+<SubTexture name="right0001" x="48" y="48" width="48" height="48" frameX="0" frameY="0" frameWidth="48" frameHeight="48" />
+
+<SubTexture name="left0000" x="96" y="48" width="48" height="48" frameX="0" frameY="0" frameWidth="48" frameHeight="48" />
+<SubTexture name="left0001" x="144" y="48" width="48" height="48" frameX="0" frameY="0" frameWidth="48" frameHeight="48" />
+
+<SubTexture name="up0000" x="0" y="96" width="48" height="48" frameX="0" frameY="0" frameWidth="48" frameHeight="48" />
+<SubTexture name="up0001" x="48" y="96" width="48" height="48" frameX="0" frameY="0" frameWidth="48" frameHeight="48" />
+
+<SubTexture name="down0000" x="96" y="96" width="48" height="48" frameX="0" frameY="0" frameWidth="48" frameHeight="48" />
+<SubTexture name="down0001" x="144" y="96" width="48" height="48" frameX="0" frameY="0" frameWidth="48" frameHeight="48" />
+
+
+<SubTexture name="hey0000" x="0" y="144" width="48" height="48" frameX="0" frameY="0" frameWidth="48" frameHeight="48" />
+<SubTexture name="hey0001" x="48" y="144" width="48" height="48" frameX="0" frameY="0" frameWidth="48" frameHeight="48" />
+<SubTexture name="hey0002" x="96" y="144" width="48" height="48" frameX="0" frameY="0" frameWidth="48" frameHeight="48" />
+<SubTexture name="hey0003" x="144" y="144" width="48" height="48" frameX="0" frameY="0" frameWidth="48" frameHeight="48" />
+<SubTexture name="hey0004" x="0" y="192" width="48" height="48" frameX="0" frameY="0" frameWidth="48" frameHeight="48" />
+<SubTexture name="hey0005" x="48" y="192" width="48" height="48" frameX="0" frameY="0" frameWidth="48" frameHeight="48" />
+<SubTexture name="hey0006" x="96" y="192" width="48" height="48" frameX="0" frameY="0" frameWidth="48" frameHeight="48" />
+
+<SubTexture name="jump0000" x="144" y="192" width="48" height="48" frameX="0" frameY="0" frameWidth="48" frameHeight="48" />
+<SubTexture name="jump0001" x="144" y="192" width="48" height="48" frameX="0" frameY="10" frameWidth="48" frameHeight="48" />
+<SubTexture name="jump0002" x="144" y="192" width="48" height="48" frameX="0" frameY="18" frameWidth="48" frameHeight="48" />
+<SubTexture name="jump0003" x="144" y="192" width="48" height="48" frameX="0" frameY="24" frameWidth="48" frameHeight="48" />
+<SubTexture name="jump0004" x="144" y="192" width="48" height="48" frameX="0" frameY="27" frameWidth="48" frameHeight="48" />
+<SubTexture name="jump0005" x="144" y="192" width="48" height="48" frameX="0" frameY="29" frameWidth="48" frameHeight="48" />
+<SubTexture name="jump0006" x="144" y="192" width="48" height="48" frameX="0" frameY="30" frameWidth="48" frameHeight="48" />
+<SubTexture name="jump0007" x="144" y="192" width="48" height="48" frameX="0" frameY="31" frameWidth="48" frameHeight="48" />
+<SubTexture name="jump0008" x="144" y="192" width="48" height="48" frameX="0" frameY="31" frameWidth="48" frameHeight="48" />
+<SubTexture name="jump0009" x="144" y="192" width="48" height="48" frameX="0" frameY="30" frameWidth="48" frameHeight="48" />
+<SubTexture name="jump0010" x="144" y="192" width="48" height="48" frameX="0" frameY="29" frameWidth="48" frameHeight="48" />
+<SubTexture name="jump0011" x="144" y="192" width="48" height="48" frameX="0" frameY="27" frameWidth="48" frameHeight="48" />
+<SubTexture name="jump0012" x="144" y="192" width="48" height="48" frameX="0" frameY="24" frameWidth="48" frameHeight="48" />
+<SubTexture name="jump0013" x="144" y="192" width="48" height="48" frameX="0" frameY="18" frameWidth="48" frameHeight="48" />
+<SubTexture name="jump0014" x="144" y="192" width="48" height="48" frameX="0" frameY="10" frameWidth="48" frameHeight="48" />
+<SubTexture name="jump0015" x="144" y="192" width="48" height="48" frameX="0" frameY="0" frameWidth="48" frameHeight="48" />
+<SubTexture name="jump0016" x="144" y="192" width="48" height="48" frameX="0" frameY="10" frameWidth="48" frameHeight="48" />
+<SubTexture name="jump0017" x="144" y="192" width="48" height="48" frameX="0" frameY="18" frameWidth="48" frameHeight="48" />
+<SubTexture name="jump0018" x="144" y="192" width="48" height="48" frameX="0" frameY="24" frameWidth="48" frameHeight="48" />
+<SubTexture name="jump0019" x="144" y="192" width="48" height="48" frameX="0" frameY="27" frameWidth="48" frameHeight="48" />
+<SubTexture name="jump0020" x="144" y="192" width="48" height="48" frameX="0" frameY="29" frameWidth="48" frameHeight="48" />
+<SubTexture name="jump0021" x="144" y="192" width="48" height="48" frameX="0" frameY="30" frameWidth="48" frameHeight="48" />
+<SubTexture name="jump0022" x="144" y="192" width="48" height="48" frameX="0" frameY="31" frameWidth="48" frameHeight="48" />
+<SubTexture name="jump0023" x="144" y="192" width="48" height="48" frameX="0" frameY="31" frameWidth="48" frameHeight="48" />
+<SubTexture name="jump0024" x="144" y="192" width="48" height="48" frameX="0" frameY="30" frameWidth="48" frameHeight="48" />
+<SubTexture name="jump0025" x="144" y="192" width="48" height="48" frameX="0" frameY="29" frameWidth="48" frameHeight="48" />
+<SubTexture name="jump0026" x="144" y="192" width="48" height="48" frameX="0" frameY="27" frameWidth="48" frameHeight="48" />
+<SubTexture name="jump0027" x="144" y="192" width="48" height="48" frameX="0" frameY="24" frameWidth="48" frameHeight="48" />
+<SubTexture name="jump0028" x="144" y="192" width="48" height="48" frameX="0" frameY="18" frameWidth="48" frameHeight="48" />
+<SubTexture name="jump0029" x="144" y="192" width="48" height="48" frameX="0" frameY="10" frameWidth="48" frameHeight="48" />
+<SubTexture name="jump0030" x="144" y="192" width="48" height="48" frameX="0" frameY="0" frameWidth="48" frameHeight="48" />
+
+</TextureAtlas>

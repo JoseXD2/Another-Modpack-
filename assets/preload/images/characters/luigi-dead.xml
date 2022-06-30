@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bf-mario.png">
+<SubTexture name="BF Dies pixel0000" x="0" y="0" width="28" height="22" frameX="0" frameY="0" frameWidth="28" frameHeight="22" />
+<SubTexture name="BF Dies pixel0001" x="0" y="0" width="28" height="22" frameX="0" frameY="0" frameWidth="28" frameHeight="22" />
+<SubTexture name="BF Dies pixel0002" x="0" y="0" width="28" height="22" frameX="0" frameY="0" frameWidth="28" frameHeight="22" />
+<SubTexture name="BF Dies pixel0003" x="0" y="0" width="28" height="22" frameX="0" frameY="0" frameWidth="28" frameHeight="22" />
+<SubTexture name="BF Dies pixel0004" x="0" y="0" width="28" height="22" frameX="0" frameY="0" frameWidth="28" frameHeight="22" />
+<SubTexture name="BF Dies pixel0005" x="0" y="0" width="28" height="22" frameX="0" frameY="0" frameWidth="28" frameHeight="22" />
+<SubTexture name="BF Dies pixel0006" x="0" y="0" width="28" height="22" frameX="0" frameY="0" frameWidth="28" frameHeight="22" />
+<SubTexture name="BF Dies pixel0007" x="0" y="0" width="28" height="22" frameX="0" frameY="0" frameWidth="28" frameHeight="22" />
+<SubTexture name="BF Dies pixel0008" x="0" y="0" width="28" height="22" frameX="0" frameY="0" frameWidth="28" frameHeight="22" />
+<SubTexture name="BF Dies pixel0009" x="0" y="0" width="28" height="22" frameX="0" frameY="0" frameWidth="28" frameHeight="22" />
+<SubTexture name="BF Dies pixel0010" x="0" y="0" width="28" height="22" frameX="0" frameY="0" frameWidth="28" frameHeight="22" />
+<SubTexture name="BF Dies pixel0011" x="0" y="0" width="28" height="22" frameX="0" frameY="0" frameWidth="28" frameHeight="22" />
+<SubTexture name="BF Dies pixel0012" x="0" y="0" width="28" height="22" frameX="0" frameY="0" frameWidth="28" frameHeight="22" />
+<SubTexture name="BF Dies pixel0013" x="0" y="0" width="28" height="22" frameX="0" frameY="0" frameWidth="28" frameHeight="22" />
+<SubTexture name="BF Dies pixel0014" x="0" y="0" width="28" height="22" frameX="0" frameY="0" frameWidth="28" frameHeight="22" />
+<SubTexture name="BF Dies pixel0015" x="0" y="0" width="28" height="22" frameX="0" frameY="10" frameWidth="28" frameHeight="22" />
+<SubTexture name="BF Dies pixel0016" x="0" y="0" width="28" height="22" frameX="0" frameY="18" frameWidth="28" frameHeight="22" />
+<SubTexture name="BF Dies pixel0017" x="0" y="0" width="28" height="22" frameX="0" frameY="24" frameWidth="28" frameHeight="22" />
+<SubTexture name="BF Dies pixel0018" x="0" y="0" width="28" height="22" frameX="0" frameY="28" frameWidth="28" frameHeight="22" />
+<SubTexture name="BF Dies pixel0019" x="0" y="0" width="28" height="22" frameX="0" frameY="30" frameWidth="28" frameHeight="22" />
+<SubTexture name="BF Dies pixel0020" x="0" y="0" width="28" height="22" frameX="0" frameY="31" frameWidth="28" frameHeight="22" />
+<SubTexture name="BF Dies pixel0021" x="0" y="0" width="28" height="22" frameX="0" frameY="32" frameWidth="28" frameHeight="22" />
+<SubTexture name="BF Dies pixel0022" x="0" y="0" width="28" height="22" frameX="0" frameY="33" frameWidth="28" frameHeight="22" />
+<SubTexture name="BF Dies pixel0023" x="0" y="0" width="28" height="22" frameX="0" frameY="33" frameWidth="28" frameHeight="22" />
+<SubTexture name="BF Dies pixel0024" x="0" y="0" width="28" height="22" frameX="0" frameY="32" frameWidth="28" frameHeight="22" />
+<SubTexture name="BF Dies pixel0025" x="0" y="0" width="28" height="22" frameX="0" frameY="31" frameWidth="28" frameHeight="22" />
+<SubTexture name="BF Dies pixel0026" x="0" y="0" width="28" height="22" frameX="0" frameY="30" frameWidth="28" frameHeight="22" />
+<SubTexture name="BF Dies pixel0027" x="0" y="0" width="28" height="22" frameX="0" frameY="28" frameWidth="28" frameHeight="22" />
+<SubTexture name="BF Dies pixel0028" x="0" y="0" width="28" height="22" frameX="0" frameY="24" frameWidth="28" frameHeight="22" />
+<SubTexture name="BF Dies pixel0029" x="0" y="0" width="28" height="22" frameX="0" frameY="18" frameWidth="28" frameHeight="22" />
+<SubTexture name="BF Dies pixel0030" x="0" y="0" width="28" height="22" frameX="0" frameY="10" frameWidth="28" frameHeight="22" />
+<SubTexture name="BF Dies pixel0031" x="0" y="0" width="28" height="22" frameX="0" frameY="0" frameWidth="28" frameHeight="22" />
+<SubTexture name="BF Dies pixel0032" x="0" y="0" width="28" height="22" frameX="0" frameY="-10" frameWidth="28" frameHeight="22" />
+<SubTexture name="BF Dies pixel0033" x="0" y="0" width="28" height="22" frameX="0" frameY="-22" frameWidth="28" frameHeight="22" />
+<SubTexture name="BF Dies pixel0034" x="0" y="0" width="28" height="22" frameX="0" frameY="-34" frameWidth="28" frameHeight="22" />
+<SubTexture name="BF Dies pixel0035" x="0" y="0" width="28" height="22" frameX="0" frameY="-55" frameWidth="28" frameHeight="22" />
+<SubTexture name="BF Dies pixel0036" x="0" y="0" width="28" height="22" frameX="0" frameY="-80" frameWidth="28" frameHeight="22" />
+<SubTexture name="BF Dies pixel0037" x="0" y="0" width="28" height="22" frameX="0" frameY="-120" frameWidth="28" frameHeight="22" />
+<SubTexture name="BF Dies pixel0038" x="0" y="0" width="28" height="22" frameX="0" frameY="-190" frameWidth="28" frameHeight="22" />
+<SubTexture name="BF Dies pixel0039" x="0" y="0" width="28" height="22" frameX="0" frameY="-280" frameWidth="28" frameHeight="22" />
+<SubTexture name="BF Dies pixel0040" x="0" y="0" width="28" height="22" frameX="0" frameY="-390" frameWidth="28" frameHeight="22" />
+<SubTexture name="BF Dies pixel0041" x="0" y="0" width="28" height="22" frameX="0" frameY="-500" frameWidth="28" frameHeight="22" />
+<SubTexture name="BF Dies pixel0042" x="0" y="0" width="28" height="22" frameX="0" frameY="-800" frameWidth="28" frameHeight="22" />
+<SubTexture name="BF Dies pixel0043" x="0" y="0" width="28" height="22" frameX="0" frameY="-1500" frameWidth="28" frameHeight="22" />
+<SubTexture name="BF Dies pixel0044" x="0" y="0" width="28" height="22" frameX="0" frameY="-3000" frameWidth="28" frameHeight="22" />
+<SubTexture name="BF Dies pixel0045" x="0" y="0" width="28" height="22" frameX="0" frameY="-6000" frameWidth="28" frameHeight="22" />
+<SubTexture name="BF Dies pixel0046" x="0" y="22" width="47" height="7" frameX="8" frameY="-5" frameWidth="47" frameHeight="7" />
+<SubTexture name="BF Dies pixel0047" x="0" y="29" width="47" height="7" frameX="8" frameY="-5" frameWidth="47" frameHeight="7" />
+<SubTexture name="Retry Loop0000" x="0" y="36" width="47" height="7" frameX="8" frameY="-5" frameWidth="47" frameHeight="7" />
+<SubTexture name="RETRY CONFIRM0000" x="0" y="43" width="47" height="7" frameX="8" frameY="-5" frameWidth="47" frameHeight="7" />
+</TextureAtlas>

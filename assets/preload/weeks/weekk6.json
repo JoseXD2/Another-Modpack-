@@ -1,0 +1,58 @@
+{
+	"storyName": "You are next",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "school",
+	"weekBefore": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"senpai-remix",
+			"senpai-pixel",
+			[
+				255,
+				180,
+				100
+			]
+		],
+		[
+			"dead-pixel",
+			"senpai-pixel",
+			[
+				235,
+				180,
+				100
+			]
+		],
+		[
+			"treacherous-thorns",
+			"senpai-angry",
+			[
+				195,
+				140,
+				60
+			]
+		],
+		[
+			"roots",
+			"spirit-pixel",
+			[
+				255,
+				235,
+				235
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "Vs. Senpai"
+}

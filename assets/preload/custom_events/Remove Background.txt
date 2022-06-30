@@ -1,0 +1,6 @@
+Removes an image created by "Add Background" 
+
+Value 1: Image Name
+ex. "Test" "fancy/BG1" "effects/epic/Screen Crack" 
+Value 2: Fade Duration (max 8)
+ex. "0.1" "6" 

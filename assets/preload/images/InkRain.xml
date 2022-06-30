@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="InkRain.png">
+	
+	
+	<SubTexture name="erteyd instance 10000" x="3" y="3" width="576" height="360" />
+	<SubTexture name="erteyd instance 10001" x="583" y="3" width="576" height="360" />
+	<SubTexture name="erteyd instance 10002" x="1163" y="3" width="576" height="360" />
+	<SubTexture name="erteyd instance 10003" x="1743" y="3" width="576" height="360" />
+	<SubTexture name="erteyd instance 10004" x="3" y="366" width="576" height="360" />
+	<SubTexture name="erteyd instance 10005" x="583" y="366" width="576" height="360" />
+	<SubTexture name="erteyd instance 10006" x="1163" y="366" width="576" height="360" />
+	<SubTexture name="erteyd instance 10007" x="1743" y="366" width="576" height="360" />
+	<SubTexture name="erteyd instance 10008" x="3" y="730" width="576" height="360" />
+	<SubTexture name="erteyd instance 10009" x="583" y="730" width="576" height="360" />
+	<SubTexture name="erteyd instance 10010" x="1163" y="730" width="576" height="360" />
+	<SubTexture name="erteyd instance 10011" x="1743" y="730" width="576" height="360" />
+	<SubTexture name="erteyd instance 10012" x="3" y="1093" width="576" height="360" />
+</TextureAtlas>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Charlie.png"><SubTexture name="charlie abajo instance 10000" x="1354" y="1473" width="463" height="453" frameX="0" frameY="-19" frameWidth="464" frameHeight="472" />
+<SubTexture name="charlie abajo instance 10001" x="1354" y="1473" width="463" height="453" frameX="0" frameY="-19" frameWidth="464" frameHeight="472" />
+<SubTexture name="charlie abajo instance 10002" x="452" y="1473" width="453" height="471" frameX="-2" frameY="-1" frameWidth="464" frameHeight="472" />
+<SubTexture name="charlie abajo instance 10003" x="452" y="1473" width="453" height="471" frameX="-2" frameY="-1" frameWidth="464" frameHeight="472" />
+<SubTexture name="charlie abajo instance 10004" x="1842" y="951" width="451" height="472" frameX="-1" frameY="0" frameWidth="464" frameHeight="472" />
+<SubTexture name="charlie abajo instance 10005" x="1842" y="951" width="451" height="472" frameX="-1" frameY="0" frameWidth="464" frameHeight="472" />
+<SubTexture name="charlie arriba instance 10000" x="0" y="0" width="456" height="512" frameX="0" frameY="0" frameWidth="467" frameHeight="513" />
+<SubTexture name="charlie arriba instance 10001" x="0" y="0" width="456" height="512" frameX="0" frameY="0" frameWidth="467" frameHeight="513" />
+<SubTexture name="charlie arriba instance 10002" x="456" y="0" width="457" height="491" frameX="-7" frameY="-21" frameWidth="467" frameHeight="513" />
+<SubTexture name="charlie arriba instance 10003" x="456" y="0" width="457" height="491" frameX="-7" frameY="-21" frameWidth="467" frameHeight="513" />
+<SubTexture name="charlie arriba instance 10004" x="913" y="0" width="457" height="489" frameX="-10" frameY="-23" frameWidth="467" frameHeight="513" />
+<SubTexture name="charlie arriba instance 10005" x="913" y="0" width="457" height="489" frameX="-10" frameY="-23" frameWidth="467" frameHeight="513" />
+<SubTexture name="charlie derehca instance 10000" x="1370" y="479" width="467" height="478" frameX="0" frameY="-5" frameWidth="468" frameHeight="483" />
+<SubTexture name="charlie derehca instance 10001" x="1370" y="479" width="467" height="478" frameX="0" frameY="-5" frameWidth="468" frameHeight="483" />
+<SubTexture name="charlie derehca instance 10002" x="0" y="512" width="453" height="483" frameX="0" frameY="0" frameWidth="468" frameHeight="483" />
+<SubTexture name="charlie derehca instance 10003" x="0" y="512" width="453" height="483" frameX="0" frameY="0" frameWidth="468" frameHeight="483" />
+<SubTexture name="charlie derehca instance 10004" x="453" y="512" width="450" height="483" frameX="0" frameY="0" frameWidth="468" frameHeight="483" />
+<SubTexture name="charlie derehca instance 10005" x="453" y="512" width="450" height="483" frameX="0" frameY="0" frameWidth="468" frameHeight="483" />
+<SubTexture name="charlie idle instance 10000" x="1817" y="1473" width="457" height="443" frameX="-6" frameY="-35" frameWidth="463" frameHeight="479" />
+<SubTexture name="charlie idle instance 10001" x="1817" y="1473" width="457" height="443" frameX="-6" frameY="-35" frameWidth="463" frameHeight="479" />
+<SubTexture name="charlie idle instance 10002" x="905" y="1473" width="449" height="454" frameX="-6" frameY="-24" frameWidth="463" frameHeight="479" />
+<SubTexture name="charlie idle instance 10003" x="905" y="1473" width="449" height="454" frameX="-6" frameY="-24" frameWidth="463" frameHeight="479" />
+<SubTexture name="charlie idle instance 10004" x="0" y="1473" width="452" height="472" frameX="-5" frameY="-7" frameWidth="463" frameHeight="479" />
+<SubTexture name="charlie idle instance 10005" x="0" y="1473" width="452" height="472" frameX="-5" frameY="-7" frameWidth="463" frameHeight="479" />
+<SubTexture name="charlie idle instance 10006" x="1842" y="476" width="455" height="475" frameX="-2" frameY="-4" frameWidth="463" frameHeight="479" />
+<SubTexture name="charlie idle instance 10007" x="1842" y="476" width="455" height="475" frameX="-2" frameY="-4" frameWidth="463" frameHeight="479" />
+<SubTexture name="charlie idle instance 10008" x="903" y="512" width="456" height="478" frameX="-1" frameY="-1" frameWidth="463" frameHeight="479" />
+<SubTexture name="charlie idle instance 10009" x="0" y="995" width="456" height="478" frameX="-1" frameY="0" frameWidth="463" frameHeight="479" />
+<SubTexture name="charlie idle instance 10010" x="456" y="995" width="456" height="478" frameX="-1" frameY="0" frameWidth="463" frameHeight="479" />
+<SubTexture name="charlie idle instance 10011" x="912" y="995" width="457" height="478" frameX="0" frameY="0" frameWidth="463" frameHeight="479" />
+<SubTexture name="charlie idle instance 10012" x="912" y="995" width="457" height="478" frameX="0" frameY="0" frameWidth="463" frameHeight="479" />
+<SubTexture name="charlie idle instance 10013" x="912" y="995" width="457" height="478" frameX="0" frameY="0" frameWidth="463" frameHeight="479" />
+<SubTexture name="charlie idle instance 10014" x="912" y="995" width="457" height="478" frameX="0" frameY="0" frameWidth="463" frameHeight="479" />
+<SubTexture name="charlie idle instance 10015" x="912" y="995" width="457" height="478" frameX="0" frameY="0" frameWidth="463" frameHeight="479" />
+<SubTexture name="charlie izquierda instance 10000" x="1370" y="0" width="472" height="479" frameX="0" frameY="0" frameWidth="493" frameHeight="480" />
+<SubTexture name="charlie izquierda instance 10001" x="1370" y="0" width="472" height="479" frameX="0" frameY="0" frameWidth="493" frameHeight="480" />
+<SubTexture name="charlie izquierda instance 10002" x="1369" y="995" width="457" height="476" frameX="-33" frameY="-3" frameWidth="493" frameHeight="480" />
+<SubTexture name="charlie izquierda instance 10003" x="1369" y="995" width="457" height="476" frameX="-33" frameY="-3" frameWidth="493" frameHeight="480" />
+<SubTexture name="charlie izquierda instance 10004" x="1842" y="0" width="456" height="476" frameX="-36" frameY="-3" frameWidth="493" frameHeight="480" />
+<SubTexture name="charlie izquierda instance 10005" x="1842" y="0" width="456" height="476" frameX="-36" frameY="-3" frameWidth="493" frameHeight="480" />
+</TextureAtlas>

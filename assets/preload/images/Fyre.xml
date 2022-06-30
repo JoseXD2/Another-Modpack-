@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Fyre.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Penis instance 10000" x="10" y="10" width="1294" height="625" frameX="-1" frameY="-50" frameWidth="1297" frameHeight="685"/>
+	<SubTexture name="Penis instance 10001" x="1314" y="10" width="1295" height="615" frameX="0" frameY="-63" frameWidth="1297" frameHeight="685"/>
+	<SubTexture name="Penis instance 10002" x="10" y="683" width="1294" height="655" frameX="-3" frameY="-30" frameWidth="1297" frameHeight="685"/>
+	<SubTexture name="Penis instance 10003" x="1314" y="683" width="1294" height="655" frameX="-1" frameY="-20" frameWidth="1297" frameHeight="685"/>
+	<SubTexture name="Penis instance 10004" x="10" y="1348" width="1297" height="669" frameX="0" frameY="-14" frameWidth="1297" frameHeight="685"/>
+	<SubTexture name="Penis instance 10005" x="1317" y="1348" width="1294" height="685" frameX="-3" frameY="0" frameWidth="1297" frameHeight="685"/>
+</TextureAtlas>

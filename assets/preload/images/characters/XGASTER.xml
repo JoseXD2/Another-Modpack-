@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="XGASTER.png"><SubTexture name="GASTERDOWN0000" x="2743" y="858" width="722" height="847" frameX="0" frameY="0" frameWidth="725" frameHeight="876" />
+<SubTexture name="GASTERDOWN0001" x="2033" y="882" width="707" height="872" frameX="0" frameY="0" frameWidth="725" frameHeight="876" />
+<SubTexture name="GASTERIDLE0000" x="722" y="1797" width="716" height="880" frameX="-17" frameY="0" frameWidth="736" frameHeight="882" />
+<SubTexture name="GASTERIDLE0001" x="2033" y="0" width="710" height="882" frameX="-17" frameY="0" frameWidth="736" frameHeight="882" />
+<SubTexture name="GASTERIDLE0002" x="0" y="1797" width="722" height="881" frameX="-3" frameY="0" frameWidth="736" frameHeight="882" />
+<SubTexture name="GASTERIDLE0003" x="1438" y="1797" width="727" height="871" frameX="-3" frameY="0" frameWidth="736" frameHeight="882" />
+<SubTexture name="GASTERIDLE0004" x="2743" y="0" width="730" height="858" frameX="-6" frameY="0" frameWidth="736" frameHeight="882" />
+<SubTexture name="GASTERIGHT0000" x="0" y="0" width="694" height="903" frameX="0" frameY="0" frameWidth="694" frameHeight="903" />
+<SubTexture name="GASTERIGHT0001" x="694" y="0" width="686" height="902" frameX="0" frameY="0" frameWidth="694" frameHeight="903" />
+<SubTexture name="GASTERLEFT0000" x="0" y="903" width="620" height="894" frameX="0" frameY="0" frameWidth="620" frameHeight="894" />
+<SubTexture name="GASTERLEFT0001" x="620" y="903" width="597" height="892" frameX="0" frameY="0" frameWidth="620" frameHeight="894" />
+<SubTexture name="GASTERUP0000" x="1380" y="0" width="653" height="900" frameX="0" frameY="0" frameWidth="682" frameHeight="900" />
+<SubTexture name="GASTERUP0001" x="1217" y="903" width="674" height="889" frameX="0" frameY="0" frameWidth="682" frameHeight="900" />
+</TextureAtlas>

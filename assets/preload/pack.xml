@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pack.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="icon0000" x="0" y="0" width="150" height="150"/>
+	<SubTexture name="icon0001" x="150" y="0" width="150" height="150"/>
+	<SubTexture name="icon0002" x="300" y="0" width="150" height="150"/>
+</TextureAtlas>

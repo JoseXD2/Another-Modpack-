@@ -1,0 +1,32 @@
+{
+	"storyName": "Pibby doof",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "doof",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Semi-Aquatic",
+			"doof",
+			[
+				46,
+				93,
+				40
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Pibby Doof",
+	"hiddenUntilUnlocked": false
+}

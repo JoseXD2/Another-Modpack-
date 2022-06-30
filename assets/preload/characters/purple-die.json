@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				135,
+				250
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "purple idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				477,
+				452
+			],
+			"indices": [],
+			"fps": 2,
+			"anim": "voted",
+			"loop": false,
+			"name": "purple voted"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/purple meet angry animation",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "purple",
+	"flip_x": false,
+	"healthbar_colors": [
+		129,
+		78,
+		204
+	],
+	"camera_position": [
+		120,
+		-190
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

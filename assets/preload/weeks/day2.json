@@ -1,0 +1,31 @@
+{
+	"storyName": "Juego de ritmo mis coco",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "day",
+	"freeplayColor": [
+		255,
+		150,
+		0
+	],
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Mas-fuerte-que-tu",
+			"cringe",
+			[
+				255,
+				150,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"hideFreeplay": false, 
+	"weekCharacters": [
+		"menu_cringe",
+		"bf",
+		"gf"
+	],
+	"weekName": "day2"
+}

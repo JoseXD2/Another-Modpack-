@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="weebTreesDeadPixel.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="TreesD30000" x="0" y="0" width="313" height="82"/>
+	<SubTexture name="TreesD30001" x="313" y="0" width="313" height="82"/>
+	<SubTexture name="TreesD30002" x="626" y="0" width="313" height="82"/>
+	<SubTexture name="TreesD30003" x="0" y="82" width="313" height="82"/>
+	<SubTexture name="TreesD30004" x="313" y="82" width="313" height="82"/>
+	<SubTexture name="TreesD30005" x="626" y="82" width="313" height="82"/>
+	<SubTexture name="TreesD30006" x="0" y="164" width="313" height="82"/>
+	<SubTexture name="TreesD30007" x="313" y="164" width="313" height="82"/>
+	<SubTexture name="TreesD30008" x="313" y="164" width="313" height="82"/>
+	<SubTexture name="TreesD30009" x="313" y="164" width="313" height="82"/>
+	<SubTexture name="TreesD30010" x="626" y="164" width="313" height="82"/>
+	<SubTexture name="TreesD30011" x="0" y="246" width="313" height="82"/>
+	<SubTexture name="TreesD30012" x="313" y="246" width="313" height="82"/>
+	<SubTexture name="TreesD30013" x="626" y="246" width="313" height="82"/>
+	<SubTexture name="TreesD30014" x="313" y="164" width="313" height="82"/>
+	<SubTexture name="TreesD30015" x="313" y="164" width="313" height="82"/>
+	<SubTexture name="TreesD30016" x="0" y="328" width="313" height="82"/>
+	<SubTexture name="TreesD30017" x="313" y="328" width="313" height="82"/>
+	<SubTexture name="TreesD30018" x="626" y="328" width="313" height="82"/>
+	<SubTexture name="TreesD30019" x="0" y="410" width="313" height="82"/>
+</TextureAtlas>

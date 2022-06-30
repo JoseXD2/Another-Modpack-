@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="NOTE_fire alt.png"><SubTexture name="blue0000" x="543" y="0" width="196" height="344" frameX="17" frameY="-35" frameWidth="295" frameHeight="525" />
+<SubTexture name="green0000" x="0" y="0" width="189" height="361" frameX="0" frameY="-42" frameWidth="295" frameHeight="525" />
+<SubTexture name="purple0000" x="368" y="0" width="175" height="351" frameX="2" frameY="-63" frameWidth="295" frameHeight="525" />
+<SubTexture name="red0000" x="189" y="0" width="179" height="360" frameX="10" frameY="-55" frameWidth="295" frameHeight="525" />
+</TextureAtlas>

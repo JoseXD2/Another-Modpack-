@@ -1,0 +1,47 @@
+{
+	"songs": [
+		[
+			"Snake Eyes",
+			"cup",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+		  "Technicolor Tussle",
+		  "cup",[
+		    255,
+		    255,
+		    255
+		  ]
+		],
+		[
+		"Knockout",
+		"madcup",[
+		  255,
+		  255,
+		  255
+		 ]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "snake",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"bg",
+		"fun3",
+		"cup"
+	],
+	"storyName": " ",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

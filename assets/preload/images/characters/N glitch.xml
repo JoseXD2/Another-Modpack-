@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="N glitch.png"><SubTexture name="N glitch Up0000" x="2567" y="1938" width="629" height="456" frameX="0" frameY="-31" frameWidth="629" frameHeight="658" />
+<SubTexture name="N glitch Up0001" x="2567" y="974" width="573" height="484" frameX="-30" frameY="-14" frameWidth="629" frameHeight="658" />
+<SubTexture name="N glitch Up0002" x="0" y="641" width="575" height="628" frameX="-33" frameY="-7" frameWidth="629" frameHeight="658" />
+<SubTexture name="N glitch down0000" x="662" y="2431" width="535" height="407" frameX="-7" frameY="-1" frameWidth="542" frameHeight="415" />
+<SubTexture name="N glitch down0001" x="2770" y="2431" width="539" height="391" frameX="0" frameY="-24" frameWidth="542" frameHeight="415" />
+<SubTexture name="N glitch down0002" x="0" y="2887" width="535" height="391" frameX="0" frameY="-24" frameWidth="542" frameHeight="415" />
+<SubTexture name="N glitch idle0000" x="2036" y="580" width="462" height="570" frameX="-2" frameY="0" frameWidth="469" frameHeight="570" />
+<SubTexture name="N glitch idle0001" x="0" y="1863" width="464" height="568" frameX="-1" frameY="-2" frameWidth="469" frameHeight="570" />
+<SubTexture name="N glitch idle0002" x="933" y="1863" width="469" height="561" frameX="0" frameY="-9" frameWidth="469" frameHeight="570" />
+<SubTexture name="N glitch idle0003" x="464" y="1863" width="469" height="562" frameX="0" frameY="-8" frameWidth="469" frameHeight="570" />
+<SubTexture name="N glitch idle0004" x="1510" y="1269" width="463" height="569" frameX="-1" frameY="-1" frameWidth="469" frameHeight="570" />
+<SubTexture name="N glitch idle0005" x="2036" y="1150" width="461" height="570" frameX="-2" frameY="0" frameWidth="469" frameHeight="570" />
+<SubTexture name="N glitch left0000" x="542" y="0" width="365" height="636" frameX="-32" frameY="-7" frameWidth="397" frameHeight="643" />
+<SubTexture name="N glitch left0001" x="262" y="0" width="280" height="638" frameX="-8" frameY="-5" frameWidth="397" frameHeight="643" />
+<SubTexture name="N glitch left0002" x="0" y="0" width="262" height="641" frameX="-7" frameY="-2" frameWidth="397" frameHeight="643" />
+<SubTexture name="N glitch right0000" x="943" y="641" width="499" height="600" frameX="-3" frameY="0" frameWidth="519" frameHeight="600" />
+<SubTexture name="N glitch right0001" x="1537" y="0" width="499" height="595" frameX="-2" frameY="-5" frameWidth="519" frameHeight="600" />
+<SubTexture name="N glitch right0002" x="503" y="1269" width="508" height="593" frameX="0" frameY="-7" frameWidth="519" frameHeight="600" />
+<SubTexture name="N glitch right0003" x="1011" y="1269" width="499" height="593" frameX="0" frameY="-7" frameWidth="534" frameHeight="595" />
+<SubTexture name="alt10000" x="1197" y="2431" width="535" height="407" frameX="-7" frameY="-1" frameWidth="542" frameHeight="415" />
+<SubTexture name="alt10001" x="2235" y="2431" width="535" height="393" frameX="-1" frameY="-21" frameWidth="542" frameHeight="415" />
+<SubTexture name="alt10002" x="535" y="2887" width="539" height="391" frameX="0" frameY="-24" frameWidth="542" frameHeight="415" />
+<SubTexture name="alt20000" x="575" y="641" width="368" height="610" frameX="-52" frameY="-32" frameWidth="420" frameHeight="642" />
+<SubTexture name="alt20001" x="1169" y="0" width="368" height="635" frameX="-4" frameY="-7" frameWidth="420" frameHeight="642" />
+<SubTexture name="alt20002" x="907" y="0" width="262" height="636" frameX="-23" frameY="-6" frameWidth="420" frameHeight="642" />
+<SubTexture name="alt30000" x="2036" y="0" width="531" height="580" frameX="-3" frameY="-15" frameWidth="534" frameHeight="595" />
+<SubTexture name="alt30001" x="1537" y="595" width="499" height="595" frameX="-2" frameY="0" frameWidth="534" frameHeight="595" />
+<SubTexture name="alt30002" x="0" y="1269" width="503" height="594" frameX="0" frameY="-1" frameWidth="534" frameHeight="595" />
+<SubTexture name="alt40000" x="0" y="2431" width="662" height="456" frameX="-1" frameY="-31" frameWidth="663" frameHeight="658" />
+<SubTexture name="alt40011" x="2567" y="1458" width="608" height="480" frameX="-5" frameY="-24" frameWidth="663" frameHeight="658" />
+<SubTexture name="alt40012" x="1402" y="1863" width="573" height="561" frameX="-34" frameY="-10" frameWidth="663" frameHeight="658" />
+<SubTexture name="naruto slash0000" x="1975" y="1863" width="482" height="497" frameX="-5" frameY="0" frameWidth="934" frameHeight="497" />
+<SubTexture name="naruto slash0001" x="1732" y="2431" width="503" height="401" frameX="-1" frameY="-96" frameWidth="934" frameHeight="497" />
+<SubTexture name="naruto slash0002" x="2567" y="0" width="763" height="487" frameX="0" frameY="-10" frameWidth="934" frameHeight="497" />
+<SubTexture name="naruto slash0003" x="2567" y="487" width="604" height="487" frameX="0" frameY="-10" frameWidth="934" frameHeight="497" />
+</TextureAtlas>

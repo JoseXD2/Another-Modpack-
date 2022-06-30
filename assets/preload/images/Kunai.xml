@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Kunai.png"><SubTexture name="blue0000" x="0" y="0" width="147" height="193" frameX="0" frameY="0" frameWidth="147" frameHeight="193" />
+<SubTexture name="blue hold end0000" x="193" y="193" width="54" height="69" frameX="0" frameY="0" frameWidth="54" frameHeight="69" />
+<SubTexture name="blue hold piece0000" x="293" y="146" width="53" height="47" frameX="0" frameY="0" frameWidth="53" frameHeight="47" />
+<SubTexture name="green0000" x="147" y="0" width="146" height="193" frameX="0" frameY="0" frameWidth="146" frameHeight="193" />
+<SubTexture name="green hold end0000" x="247" y="193" width="54" height="68" frameX="0" frameY="0" frameWidth="54" frameHeight="68" />
+<SubTexture name="green hold piece0000" x="346" y="146" width="53" height="47" frameX="0" frameY="0" frameWidth="53" frameHeight="47" />
+<SubTexture name="pruple end hold0000" x="301" y="193" width="53" height="68" frameX="0" frameY="0" frameWidth="54" frameHeight="68" />
+<SubTexture name="purple0000" x="293" y="0" width="193" height="146" frameX="0" frameY="0" frameWidth="193" frameHeight="146" />
+<SubTexture name="purple hold piece0000" x="346" y="146" width="53" height="47" frameX="0" frameY="0" frameWidth="53" frameHeight="47" />
+<SubTexture name="red0000" x="0" y="193" width="193" height="146" frameX="0" frameY="0" frameWidth="193" frameHeight="146" />
+<SubTexture name="red hold end0000" x="301" y="193" width="53" height="68" frameX="0" frameY="0" frameWidth="54" frameHeight="68" />
+<SubTexture name="red hold piece0000" x="346" y="146" width="53" height="47" frameX="0" frameY="0" frameWidth="53" frameHeight="47" />
+</TextureAtlas>

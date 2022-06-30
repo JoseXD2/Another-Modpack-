@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/luigi-ccc",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "gone",
+	"flip_x": false,
+	"healthbar_colors": [
+		56,
+		135,
+		0
+	],
+	"camera_position": [
+		-630,
+		148
+	],
+	"sing_duration": 4,
+	"scale": 10
+}

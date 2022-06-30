@@ -1,0 +1,211 @@
+{
+	"song": {
+		"speed": 3.3,
+		"stage": "jelly",
+		"player1": "jellybeananims",
+		"player2": "skeletonanims",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Play Animation",
+						"ah",
+						"0"
+					],
+					[
+						"Play Animation",
+						"reading",
+						"1"
+					]
+				]
+			],
+			[
+				10105.2631578947,
+				[
+					[
+						"Change Character",
+						"0",
+						"jellybean"
+					],
+					[
+						"defaultCamZoom",
+						"0.9",
+						""
+					],
+					[
+						"Change Character",
+						"1",
+						"skeleton"
+					]
+				]
+			],
+			[
+				119605.263157895,
+				[
+					[
+						"Change Character",
+						"1",
+						"skeletonanims"
+					],
+					[
+						"Play Animation",
+						"watch",
+						"0"
+					],
+					[
+						"defaultCamZoom",
+						"1.3",
+						""
+					],
+					[
+						"Camera Follow Pos",
+						"250",
+						"500"
+					]
+				]
+			],
+			[
+				120315.789473684,
+				[
+					[
+						"defaultCamZoom",
+						"1.6",
+						""
+					]
+				]
+			],
+			[
+				121263.157894737,
+				[
+					[
+						"Alt Idle Animation",
+						"0",
+						"-alt"
+					],
+					[
+						"Change Character",
+						"1",
+						"skeletonE"
+					],
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				],
+				null,
+				"Alt Animation"
+			],
+			[
+				123552.631578947,
+				[
+					[
+						"Change Character",
+						"0",
+						"jellybeananims"
+					],
+					[
+						"Play Animation",
+						"hold",
+						"1"
+					]
+				]
+			],
+			[
+				125052.631578947,
+				[
+					[
+						"defaultCamZoom",
+						"1.1",
+						""
+					]
+				]
+			],
+			[
+				130105.263157895,
+				[
+					[
+						"defaultCamZoom",
+						"1.3",
+						""
+					]
+				]
+			],
+			[
+				131368.421052631,
+				[
+					[
+						"Change Character",
+						"0",
+						"jellybeanE"
+					],
+					[
+						"defaultCamZoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				143131.578947368,
+				[
+					[
+						"Change Character",
+						"0",
+						"jellybean"
+					]
+				]
+			],
+			[
+				146526.315789474,
+				[
+					[
+						"Change Character",
+						"0",
+						"jellybeananims"
+					],
+					[
+						"Play Animation",
+						"brokeld",
+						"1"
+					],
+					[
+						"Change Character",
+						"1",
+						"skeletonanims"
+					],
+					[
+						"Play Animation",
+						"braim",
+						"0"
+					],
+					[
+						"defaultCamZoom",
+						"1.4",
+						""
+					]
+				]
+			],
+			[
+				150315.789473684,
+				[
+					[
+						"defaultCamZoom",
+						"1",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 190,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Atrocity"
+	}
+}

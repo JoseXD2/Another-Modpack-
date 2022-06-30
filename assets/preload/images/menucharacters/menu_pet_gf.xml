@@ -1,0 +1,3 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="menu_pet_gf.png"><SubTexture name="GF Dancing Beat0000" x="0" y="0" width="367" height="350" frameX="0" frameY="0" frameWidth="367" frameHeight="351" />
+</TextureAtlas>

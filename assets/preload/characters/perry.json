@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-360
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "A Platypus",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-158,
+				-222
+			],
+			"anim": "idle-cool",
+			"fps": 12,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				62,
+				-172
+			],
+			"anim": "flip",
+			"fps": 12,
+			"name": "cool",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-138,
+				-208
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-119,
+				-269
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-119,
+				-263
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-70,
+				-230
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-158,
+				-221
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "turn",
+			"loop": false,
+			"name": "turnaround"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Perry",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "perry",
+	"flip_x": false,
+	"healthbar_colors": [
+		244,
+		156,
+		4
+	],
+	"camera_position": [
+		0,
+		260
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Piperr instance"
+		},
+		{
+			"offsets": [
+				60,
+				34
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "pre-attack",
+			"indices": [],
+			"name": "PipAtt"
+		},
+		{
+			"offsets": [
+				363,
+				180
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "attack",
+			"indices": [],
+			"name": "Peep"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Piper",
+	"position": [
+		900,
+		550
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		-100,
+		120
+	],
+	"sing_duration": 4,
+	"scale": 2.8
+}

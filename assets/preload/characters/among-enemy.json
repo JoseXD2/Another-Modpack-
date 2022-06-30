@@ -1,0 +1,130 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-32,
+				-11
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "note left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				96,
+				-13
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "note down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				50
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "note up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				196,
+				-2
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "note right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 20,
+			"name": "note idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "danceLeft",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			],
+			"name": "note idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "danceRight",
+			"indices": [
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27
+			],
+			"name": "note idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/among",
+	"position": [
+		-130,
+		360
+	],
+	"healthicon": "monga",
+	"flip_x": true,
+	"healthbar_colors": [
+		20,
+		100,
+		80
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 2.6,
+	"scale": 1
+}

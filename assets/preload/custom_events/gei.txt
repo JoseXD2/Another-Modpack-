@@ -1,0 +1,3 @@
+Sets the Noteskin for both sides to a png and xml found in mods/images
+value 1: the Noteskin's name
+value 2: the Noteskin's Splashes (Optional)

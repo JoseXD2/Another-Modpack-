@@ -1,0 +1,159 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				135,
+				280
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "green idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				455,
+				214
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "green left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				400,
+				239
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "green down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				659
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "green up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				252,
+				543
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "green right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				397,
+				299
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "green miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				305,
+				151
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "green miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				284,
+				387
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "green miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				126,
+				302
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "green miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				135,
+				280
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "green dies",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				135,
+				281
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "green idle",
+			"indices": [
+				0
+			]
+		},
+		{
+			"offsets": [
+				127,
+				265
+			],
+			"indices": [
+				15
+			],
+			"fps": 24,
+			"anim": "deathLoop",
+			"loop": true,
+			"name": "green dies"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/green meet",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "monga",
+	"flip_x": true,
+	"healthbar_colors": [
+		20,
+		160,
+		100
+	],
+	"camera_position": [
+		570,
+		-190
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

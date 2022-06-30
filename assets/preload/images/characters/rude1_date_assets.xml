@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="rude#1 date assets.png">
+	<!-- Created with Adobe Animate version 19.1.0.349 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Rude1 down0000" x="0" y="0" width="865" height="1051"/>
+	<SubTexture name="Rude1 down0001" x="0" y="0" width="865" height="1051"/>
+	<SubTexture name="Rude1 down0002" x="865" y="0" width="865" height="1051"/>
+	<SubTexture name="Rude1 down0003" x="865" y="0" width="865" height="1051"/>
+	<SubTexture name="Rude1 down0004" x="1730" y="0" width="865" height="1051"/>
+	<SubTexture name="Rude1 down0005" x="1730" y="0" width="865" height="1051"/>
+	<SubTexture name="Rude1 down0006" x="1730" y="0" width="865" height="1051"/>
+	<SubTexture name="Rude1 down0007" x="1730" y="0" width="865" height="1051"/>
+	<SubTexture name="Rude1 down0008" x="1730" y="0" width="865" height="1051"/>
+	<SubTexture name="Rude1 down0009" x="1730" y="0" width="865" height="1051"/>
+	<SubTexture name="Rude1 down0010" x="1730" y="0" width="865" height="1051"/>
+	<SubTexture name="Rude1 down0011" x="1730" y="0" width="865" height="1051"/>
+	<SubTexture name="Rude1 down0012" x="1730" y="0" width="865" height="1051"/>
+	<SubTexture name="Rude1 down0013" x="1730" y="0" width="865" height="1051"/>
+	<SubTexture name="Rude1 idle0000" x="0" y="1051" width="829" height="910"/>
+	<SubTexture name="Rude1 idle0001" x="0" y="1051" width="829" height="910"/>
+	<SubTexture name="Rude1 left0000" x="829" y="1051" width="865" height="1051"/>
+	<SubTexture name="Rude1 left0001" x="829" y="1051" width="865" height="1051"/>
+	<SubTexture name="Rude1 left0002" x="1694" y="1051" width="865" height="1051"/>
+	<SubTexture name="Rude1 left0003" x="1694" y="1051" width="865" height="1051"/>
+	<SubTexture name="Rude1 left0004" x="0" y="2102" width="865" height="1051"/>
+	<SubTexture name="Rude1 left0005" x="0" y="2102" width="865" height="1051"/>
+	<SubTexture name="Rude1 left0006" x="0" y="2102" width="865" height="1051"/>
+	<SubTexture name="Rude1 left0007" x="0" y="2102" width="865" height="1051"/>
+	<SubTexture name="Rude1 left0008" x="0" y="2102" width="865" height="1051"/>
+	<SubTexture name="Rude1 left0009" x="0" y="2102" width="865" height="1051"/>
+	<SubTexture name="Rude1 left0010" x="0" y="2102" width="865" height="1051"/>
+	<SubTexture name="Rude1 left0011" x="0" y="2102" width="865" height="1051"/>
+	<SubTexture name="Rude1 left0012" x="0" y="2102" width="865" height="1051"/>
+	<SubTexture name="Rude1 left0013" x="0" y="2102" width="865" height="1051"/>
+	<SubTexture name="Rude1 right0000" x="865" y="2102" width="865" height="1051"/>
+	<SubTexture name="Rude1 right0001" x="865" y="2102" width="865" height="1051"/>
+	<SubTexture name="Rude1 right0002" x="1730" y="2102" width="865" height="1051"/>
+	<SubTexture name="Rude1 right0003" x="1730" y="2102" width="865" height="1051"/>
+	<SubTexture name="Rude1 right0004" x="2595" y="0" width="865" height="1051"/>
+	<SubTexture name="Rude1 right0005" x="2595" y="0" width="865" height="1051"/>
+	<SubTexture name="Rude1 right0006" x="2595" y="0" width="865" height="1051"/>
+	<SubTexture name="Rude1 right0007" x="2595" y="0" width="865" height="1051"/>
+	<SubTexture name="Rude1 right0008" x="2595" y="0" width="865" height="1051"/>
+	<SubTexture name="Rude1 right0009" x="2595" y="0" width="865" height="1051"/>
+	<SubTexture name="Rude1 right0010" x="2595" y="0" width="865" height="1051"/>
+	<SubTexture name="Rude1 right0011" x="2595" y="0" width="865" height="1051"/>
+	<SubTexture name="Rude1 right0012" x="2595" y="0" width="865" height="1051"/>
+	<SubTexture name="Rude1 right0013" x="2595" y="0" width="865" height="1051"/>
+	<SubTexture name="Rude1 up0000" x="2559" y="1051" width="865" height="1051"/>
+	<SubTexture name="Rude1 up0001" x="2559" y="1051" width="865" height="1051"/>
+	<SubTexture name="Rude1 up0002" x="2595" y="2102" width="865" height="1051"/>
+	<SubTexture name="Rude1 up0003" x="2595" y="2102" width="865" height="1051"/>
+	<SubTexture name="Rude1 up0004" x="0" y="3153" width="865" height="1051"/>
+	<SubTexture name="Rude1 up0005" x="0" y="3153" width="865" height="1051"/>
+	<SubTexture name="Rude1 up0006" x="0" y="3153" width="865" height="1051"/>
+	<SubTexture name="Rude1 up0007" x="0" y="3153" width="865" height="1051"/>
+	<SubTexture name="Rude1 up0008" x="0" y="3153" width="865" height="1051"/>
+	<SubTexture name="Rude1 up0009" x="0" y="3153" width="865" height="1051"/>
+	<SubTexture name="Rude1 up0010" x="0" y="3153" width="865" height="1051"/>
+	<SubTexture name="Rude1 up0011" x="0" y="3153" width="865" height="1051"/>
+	<SubTexture name="Rude1 up0012" x="0" y="3153" width="865" height="1051"/>
+	<SubTexture name="Rude1 up0013" x="0" y="3153" width="865" height="1051"/>
+</TextureAtlas>

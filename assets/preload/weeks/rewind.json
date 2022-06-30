@@ -1,0 +1,32 @@
+{
+	"storyName": "back in time",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "rewind",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Rewind",
+			"bf",
+			[
+				255,
+				175,
+				80
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "rewind",
+	"hiddenUntilUnlocked": false
+}

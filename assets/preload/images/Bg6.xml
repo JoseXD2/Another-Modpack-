@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Bg6.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bg60000" x="0" y="0" width="1280" height="640" frameX="-1" frameY="-13" frameWidth="2562" frameHeight="1293"/>
+	<SubTexture name="bg60001" x="0" y="0" width="1280" height="640" frameX="-1" frameY="-13" frameWidth="2562" frameHeight="1293"/>
+	<SubTexture name="bg60002" x="0" y="0" width="1280" height="640" frameX="-1" frameY="-9" frameWidth="2562" frameHeight="1293"/>
+	<SubTexture name="bg60003" x="0" y="0" width="1280" height="640" frameX="-1" frameY="-9" frameWidth="2562" frameHeight="1293"/>
+	<SubTexture name="bg60004" x="0" y="0" width="1280" height="640" frameX="0" frameY="-6" frameWidth="2562" frameHeight="1293"/>
+	<SubTexture name="bg60005" x="0" y="0" width="1280" height="640" frameX="0" frameY="-6" frameWidth="2562" frameHeight="1293"/>
+	<SubTexture name="bg60006" x="0" y="0" width="1280" height="640" frameX="0" frameY="-4" frameWidth="2562" frameHeight="1293"/>
+	<SubTexture name="bg60007" x="0" y="0" width="1280" height="640" frameX="0" frameY="-4" frameWidth="2562" frameHeight="1293"/>
+	<SubTexture name="bg60008" x="0" y="0" width="1280" height="640" frameX="0" frameY="-3" frameWidth="2562" frameHeight="1293"/>
+	<SubTexture name="bg60009" x="0" y="0" width="1280" height="640" frameX="0" frameY="-3" frameWidth="2562" frameHeight="1293"/>
+	<SubTexture name="bg60010" x="0" y="0" width="1280" height="640" frameX="0" frameY="0" frameWidth="2562" frameHeight="1293"/>
+	<SubTexture name="bg60011" x="0" y="0" width="1280" height="640" frameX="0" frameY="0" frameWidth="2562" frameHeight="1293"/>
+	<SubTexture name="bg60012" x="0" y="0" width="1280" height="640" frameX="-2" frameY="-2" frameWidth="2562" frameHeight="1293"/>
+	<SubTexture name="bg60013" x="0" y="0" width="1280" height="640" frameX="-2" frameY="-2" frameWidth="2562" frameHeight="1293"/>
+	<SubTexture name="bg60014" x="0" y="0" width="1280" height="640" frameX="-2" frameY="-2" frameWidth="2562" frameHeight="1293"/>
+	<SubTexture name="bg60015" x="0" y="0" width="1280" height="640" frameX="-2" frameY="-2" frameWidth="2562" frameHeight="1293"/>
+	<SubTexture name="bg60016" x="0" y="0" width="1280" height="640" frameX="-1" frameY="-4" frameWidth="2562" frameHeight="1293"/>
+	<SubTexture name="bg60017" x="0" y="0" width="1280" height="640" frameX="-1" frameY="-4" frameWidth="2562" frameHeight="1293"/>
+	<SubTexture name="bg60018" x="0" y="0" width="1280" height="640" frameX="-1" frameY="-5" frameWidth="2562" frameHeight="1293"/>
+	<SubTexture name="bg60019" x="0" y="0" width="1280" height="640" frameX="-1" frameY="-5" frameWidth="2562" frameHeight="1293"/>
+	<SubTexture name="bg60020" x="0" y="0" width="1280" height="640" frameX="0" frameY="-9" frameWidth="2562" frameHeight="1293"/>
+	<SubTexture name="bg60021" x="0" y="0" width="1280" height="640" frameX="0" frameY="-9" frameWidth="2562" frameHeight="1293"/>
+</TextureAtlas>

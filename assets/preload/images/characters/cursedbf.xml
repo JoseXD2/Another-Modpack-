@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="cursedbf.png"><SubTexture name="bf lmfao instance 10000" x="1162" y="0" width="387" height="498" frameX="-3" frameY="-37" frameWidth="406" frameHeight="535" />
+<SubTexture name="bf lmfao instance 10001" x="1162" y="0" width="387" height="498" frameX="-2" frameY="-37" frameWidth="406" frameHeight="535" />
+<SubTexture name="bf lmfao instance 10002" x="1549" y="494" width="389" height="490" frameX="0" frameY="-45" frameWidth="406" frameHeight="535" />
+<SubTexture name="bf lmfao instance 10003" x="1549" y="494" width="389" height="490" frameX="0" frameY="-45" frameWidth="406" frameHeight="535" />
+<SubTexture name="bf lmfao instance 10004" x="1549" y="0" width="395" height="494" frameX="0" frameY="-41" frameWidth="406" frameHeight="535" />
+<SubTexture name="bf lmfao instance 10005" x="1549" y="0" width="395" height="494" frameX="0" frameY="-41" frameWidth="406" frameHeight="535" />
+<SubTexture name="bf lmfao instance 10006" x="388" y="535" width="399" height="514" frameX="-6" frameY="-21" frameWidth="406" frameHeight="535" />
+<SubTexture name="bf lmfao instance 10007" x="388" y="535" width="399" height="514" frameX="-6" frameY="-21" frameWidth="406" frameHeight="535" />
+<SubTexture name="bf lmfao instance 10008" x="0" y="535" width="388" height="533" frameX="-17" frameY="-2" frameWidth="406" frameHeight="535" />
+<SubTexture name="bf lmfao instance 10009" x="0" y="535" width="388" height="533" frameX="-17" frameY="-2" frameWidth="406" frameHeight="535" />
+<SubTexture name="bf lmfao instance 10010" x="387" y="0" width="388" height="534" frameX="-18" frameY="-1" frameWidth="406" frameHeight="535" />
+<SubTexture name="bf lmfao instance 10011" x="387" y="0" width="388" height="534" frameX="-18" frameY="-1" frameWidth="406" frameHeight="535" />
+<SubTexture name="bf lmfao instance 10012" x="0" y="0" width="387" height="535" frameX="-19" frameY="0" frameWidth="406" frameHeight="535" />
+<SubTexture name="bf lmfao instance 10013" x="0" y="0" width="387" height="535" frameX="-19" frameY="0" frameWidth="406" frameHeight="535" />
+<SubTexture name="bf lmfao instance 10014" x="0" y="0" width="387" height="535" frameX="-19" frameY="0" frameWidth="406" frameHeight="535" />
+<SubTexture name="bf lmfao instance 10015" x="0" y="0" width="387" height="535" frameX="-19" frameY="0" frameWidth="406" frameHeight="535" />
+<SubTexture name="bf lmfao instance 10016" x="775" y="0" width="387" height="534" frameX="-18" frameY="-1" frameWidth="406" frameHeight="535" />
+</TextureAtlas>

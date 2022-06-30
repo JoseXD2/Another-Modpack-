@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="NewRAINLayer01.png">
+	
+	
+	<SubTexture name="RainFirstlayer instance 10000" x="5" y="5" width="960" height="540" />
+	<SubTexture name="RainFirstlayer instance 10001" x="970" y="5" width="960" height="540" />
+	<SubTexture name="RainFirstlayer instance 10002" x="5" y="550" width="960" height="540" />
+	<SubTexture name="RainFirstlayer instance 10003" x="970" y="550" width="960" height="540" />
+</TextureAtlas>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="NikkuAssets.png"><SubTexture name="NikkuIDLE0000" x="0" y="887" width="403" height="874" frameX="0" frameY="-3" frameWidth="403" frameHeight="887" />
+<SubTexture name="NikkuIDLE0001" x="0" y="887" width="403" height="874" frameX="0" frameY="-3" frameWidth="403" frameHeight="887" />
+<SubTexture name="NikkuIDLE0002" x="1436" y="0" width="395" height="880" frameX="-4" frameY="0" frameWidth="403" frameHeight="887" />
+<SubTexture name="NikkuIDLE0003" x="1436" y="0" width="395" height="880" frameX="-4" frameY="0" frameWidth="403" frameHeight="887" />
+<SubTexture name="NikkuIDLE0004" x="0" y="0" width="362" height="887" frameX="-21" frameY="0" frameWidth="403" frameHeight="887" />
+<SubTexture name="NikkuIDLE0005" x="0" y="0" width="362" height="887" frameX="-21" frameY="0" frameWidth="403" frameHeight="887" />
+<SubTexture name="NikkuIDLE0006" x="362" y="0" width="354" height="885" frameX="-22" frameY="-1" frameWidth="403" frameHeight="887" />
+<SubTexture name="NikkuIDLE0007" x="362" y="0" width="354" height="885" frameX="-22" frameY="-1" frameWidth="403" frameHeight="887" />
+<SubTexture name="NikkuIDLE0008" x="716" y="0" width="359" height="884" frameX="-19" frameY="-2" frameWidth="403" frameHeight="887" />
+<SubTexture name="NikkuIDLE0009" x="716" y="0" width="359" height="884" frameX="-19" frameY="-2" frameWidth="403" frameHeight="887" />
+<SubTexture name="NikkuIDLE0010" x="1075" y="0" width="361" height="882" frameX="-17" frameY="-4" frameWidth="403" frameHeight="887" />
+<SubTexture name="NikkuIDLE0011" x="1075" y="0" width="361" height="882" frameX="-17" frameY="-4" frameWidth="403" frameHeight="887" />
+<SubTexture name="NikkuIDLE0012" x="1075" y="0" width="361" height="882" frameX="-17" frameY="-4" frameWidth="403" frameHeight="887" />
+<SubTexture name="NikkuIDLE0013" x="1075" y="0" width="361" height="882" frameX="-17" frameY="-4" frameWidth="403" frameHeight="887" />
+<SubTexture name="NikkuIDLE0014" x="1075" y="0" width="361" height="882" frameX="-17" frameY="-4" frameWidth="403" frameHeight="887" />
+</TextureAtlas>

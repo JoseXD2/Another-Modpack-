@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Butchergang Bg.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Symbol 1 instance 10000" x="5" y="5" width="614" height="278" frameX="0" frameY="-14" frameWidth="614" frameHeight="300"/>
+	<SubTexture name="Symbol 1 instance 10001" x="5" y="5" width="614" height="278" frameX="0" frameY="-14" frameWidth="614" frameHeight="300"/>
+	<SubTexture name="Symbol 1 instance 10002" x="5" y="288" width="594" height="601" frameX="-10" frameY="0" frameWidth="614" frameHeight="300"/>
+	<SubTexture name="Symbol 1 instance 10003" x="5" y="288" width="594" height="601" frameX="-10" frameY="0" frameWidth="614" frameHeight="300"/>
+	<SubTexture name="Symbol 1 instance 10004" x="5" y="594" width="600" height="294" frameX="-7" frameY="-4" frameWidth="614" frameHeight="300"/>
+	<SubTexture name="Symbol 1 instance 10005" x="5" y="594" width="600" height="294" frameX="-7" frameY="-4" frameWidth="614" frameHeight="300"/>
+	<SubTexture name="Symbol 1 instance 10006" x="5" y="594" width="600" height="294" frameX="-7" frameY="-4" frameWidth="614" frameHeight="300"/>
+	<SubTexture name="Symbol 1 instance 10007" x="5" y="594" width="600" height="294" frameX="-7" frameY="-4" frameWidth="614" frameHeight="300"/>
+	<SubTexture name="Symbol 1 instance 10008" x="5" y="594" width="600" height="294" frameX="-7" frameY="-4" frameWidth="614" frameHeight="300"/>
+	<SubTexture name="Symbol 1 instance 10009" x="5" y="594" width="600" height="294" frameX="-7" frameY="-4" frameWidth="614" frameHeight="300"/>
+	<SubTexture name="Symbol 1 instance 10010" x="5" y="594" width="600" height="294" frameX="-7" frameY="-4" frameWidth="614" frameHeight="300"/>
+	<SubTexture name="Symbol 1 instance 10011" x="5" y="594" width="600" height="294" frameX="-7" frameY="-4" frameWidth="614" frameHeight="300"/>
+	<SubTexture name="Symbol 1 instance 10012" x="5" y="594" width="600" height="294" frameX="-7" frameY="-4" frameWidth="614" frameHeight="300"/>
+	<SubTexture name="Symbol 1 instance 10013" x="5" y="594" width="600" height="294" frameX="-7" frameY="-4" frameWidth="614" frameHeight="300"/>
+	<SubTexture name="Symbol 1 instance 10014" x="5" y="594" width="600" height="294" frameX="-7" frameY="-4" frameWidth="614" frameHeight="300"/>
+</TextureAtlas>

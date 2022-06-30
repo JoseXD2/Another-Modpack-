@@ -1,0 +1,68 @@
+{
+	"songs": [
+		[
+			"Bad To The Bone",
+			"papyrus",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Freaky Machine",
+			"bendy2",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Satanic Funkin",
+			"devil",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Bonedoggle",
+			"sans&papyrus",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Ritual",
+			"sammy",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "bonus",
+	"weekName": "bonus",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

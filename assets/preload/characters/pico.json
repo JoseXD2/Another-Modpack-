@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-182,
+				367
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Pico Idle Dance"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-220,
+				405
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "pico Up note0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-170,
+				331
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Pico Down Note0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-194,
+				369
+			],
+			"anim": "bala2",
+			"fps": 24,
+			"name": "pico DODGE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-195,
+				369
+			],
+			"anim": "bala1",
+			"fps": 24,
+			"name": "pico DODGE",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-140,
+				362
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Pico NOTE LEFT0"
+		},
+		{
+			"offsets": [
+				-220,
+				348
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Pico Note Right0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Pico_FNF_assetss",
+	"position": [
+		-180,
+		650
+	],
+	"healthicon": "bf",
+	"flip_x": false,
+	"healthbar_colors": [
+		195,
+		115,
+		185
+	],
+	"camera_position": [
+		100,
+		-300
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="green meet.png"><SubTexture name="green down0000" x="716" y="2521" width="1246" height="532" frameX="0" frameY="-317" frameWidth="1246" frameHeight="886" />
+<SubTexture name="green down0001" x="2727" y="944" width="716" height="835" frameX="-269" frameY="0" frameWidth="1246" frameHeight="886" />
+<SubTexture name="green idle0000" x="0" y="2521" width="716" height="835" frameX="0" frameY="0" frameWidth="724" frameHeight="845" />
+<SubTexture name="green left0000" x="2727" y="0" width="868" height="944" frameX="-128" frameY="-9" frameWidth="996" frameHeight="954" />
+<SubTexture name="green left0001" x="1794" y="1341" width="865" height="952" frameX="-94" frameY="-1" frameWidth="996" frameHeight="954" />
+<SubTexture name="green miss0000" x="863" y="1341" width="931" height="1044" frameX="-50" frameY="0" frameWidth="1033" frameHeight="1044" />
+<SubTexture name="green right0000" x="0" y="0" width="1824" height="1341" frameX="-257" frameY="-461" frameWidth="2212" frameHeight="2206" />
+<SubTexture name="green up0000" x="1824" y="0" width="903" height="1214" frameX="-30" frameY="0" frameWidth="934" frameHeight="1221" />
+<SubTexture name="green up0001" x="0" y="1341" width="863" height="1180" frameX="0" frameY="-41" frameWidth="934" frameHeight="1221" />
+</TextureAtlas>

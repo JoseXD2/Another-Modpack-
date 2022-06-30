@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Candles.png">
+	
+	
+	<SubTexture name="Candless instance 10000" x="5" y="5" width="306" height="83" frameX="0" frameY="-1" frameWidth="306" frameHeight="84" />
+	<SubTexture name="Candless instance 10001" x="316" y="5" width="306" height="84" />
+	<SubTexture name="Candless instance 10002" x="628" y="5" width="306" height="83" frameX="0" frameY="-1" frameWidth="306" frameHeight="84" />
+	<SubTexture name="Candless instance 10003" x="5" y="94" width="306" height="84" />
+	<SubTexture name="Candless instance 10004" x="316" y="94" width="306" height="83" frameX="0" frameY="-1" frameWidth="306" frameHeight="84" />
+	<SubTexture name="Candless instance 10005" x="628" y="94" width="306" height="82" frameX="0" frameY="-2" frameWidth="306" frameHeight="84" />
+	<SubTexture name="Lights instance 10000" x="5" y="183" width="390" height="123" />
+	<SubTexture name="Lights instance 10001" x="400" y="183" width="382" height="115" frameX="-4" frameY="-4" frameWidth="390" frameHeight="123" />
+	<SubTexture name="Lights instance 10002" x="5" y="311" width="382" height="115" frameX="-4" frameY="-4" frameWidth="390" frameHeight="123" />
+	<SubTexture name="Lights instance 10003" x="392" y="311" width="382" height="115" frameX="-4" frameY="-4" frameWidth="390" frameHeight="123" />
+</TextureAtlas>

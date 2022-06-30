@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Momo_Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				7
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Momo_Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				47,
+				2
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Momo_Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				33,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Momo_Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				11,
+				17
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Momo_Down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Momo_Sprites",
+	"position": [
+		40,
+		-160
+	],
+	"healthicon": "momo",
+	"flip_x": false,
+	"healthbar_colors": [
+		251,
+		107,
+		73
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

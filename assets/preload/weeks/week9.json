@@ -1,0 +1,48 @@
+{
+	"storyName": "[IMPROBABILTY OVERLOAD]",
+	"weekBackground": "hank",
+	"hideFreeplay": false,
+	"weekBefore": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Mine FIeld",
+			"hank",
+			[
+				135,
+				20,
+				15
+			]
+		],
+		[
+			"Perfectionist",
+			"hank",
+			[
+				135,
+				20,
+				15
+			]
+		],
+		[
+			"Gunpowder",
+			"hank",
+			[
+				135,
+				20,
+				15
+			]
+		]
+	],
+	"weekName": "week9"
+}

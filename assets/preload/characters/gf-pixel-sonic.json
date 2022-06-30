@@ -1,0 +1,72 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-9
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "Pixel gf dance",
+			"indices": [
+				0,
+				1,
+				2,
+				3
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-9
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "Pixel gf dance",
+			"indices": [
+				4,
+				5,
+				6,
+				7
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				-20
+			],
+			"anim": "sad",
+			"fps": 24,
+			"name": "Pixel gf miss",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4
+			]
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Pixel_gf",
+	"position": [
+		260,
+		290
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		-20,
+		80
+	],
+	"sing_duration": 4,
+	"scale": 10
+}

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bg5.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bg50000" x="0" y="0" width="1280" height="640" frameX="0" frameY="-16" frameWidth="2563" frameHeight="1296"/>
+	<SubTexture name="bg50001" x="0" y="0" width="1280" height="640" frameX="0" frameY="-16" frameWidth="2563" frameHeight="1296"/>
+	<SubTexture name="bg50002" x="0" y="0" width="1280" height="640" frameX="0" frameY="-13" frameWidth="2563" frameHeight="1296"/>
+	<SubTexture name="bg50003" x="0" y="0" width="1280" height="640" frameX="0" frameY="-13" frameWidth="2563" frameHeight="1296"/>
+	<SubTexture name="bg50004" x="0" y="0" width="1280" height="640" frameX="0" frameY="-12" frameWidth="2563" frameHeight="1296"/>
+	<SubTexture name="bg50005" x="0" y="0" width="1280" height="640" frameX="0" frameY="-12" frameWidth="2563" frameHeight="1296"/>
+	<SubTexture name="bg50006" x="0" y="0" width="1280" height="640" frameX="-1" frameY="-10" frameWidth="2563" frameHeight="1296"/>
+	<SubTexture name="bg50007" x="0" y="0" width="1280" height="640" frameX="-1" frameY="-10" frameWidth="2563" frameHeight="1296"/>
+	<SubTexture name="bg50008" x="0" y="0" width="1280" height="640" frameX="-1" frameY="-9" frameWidth="2563" frameHeight="1296"/>
+	<SubTexture name="bg50009" x="0" y="0" width="1280" height="640" frameX="-1" frameY="-9" frameWidth="2563" frameHeight="1296"/>
+	<SubTexture name="bg50010" x="0" y="0" width="1280" height="640" frameX="-2" frameY="-7" frameWidth="2563" frameHeight="1296"/>
+	<SubTexture name="bg50011" x="0" y="0" width="1280" height="640" frameX="-2" frameY="-7" frameWidth="2563" frameHeight="1296"/>
+	<SubTexture name="bg50012" x="0" y="0" width="1280" height="640" frameX="-3" frameY="-6" frameWidth="2563" frameHeight="1296"/>
+	<SubTexture name="bg50013" x="0" y="0" width="1280" height="640" frameX="-3" frameY="-6" frameWidth="2563" frameHeight="1296"/>
+	<SubTexture name="bg50014" x="0" y="0" width="1280" height="640" frameX="-3" frameY="-4" frameWidth="2563" frameHeight="1296"/>
+	<SubTexture name="bg50015" x="0" y="0" width="1280" height="640" frameX="-3" frameY="-4" frameWidth="2563" frameHeight="1296"/>
+	<SubTexture name="bg50016" x="0" y="0" width="1280" height="640" frameX="-3" frameY="-2" frameWidth="2563" frameHeight="1296"/>
+	<SubTexture name="bg50017" x="0" y="0" width="1280" height="640" frameX="-3" frameY="-2" frameWidth="2563" frameHeight="1296"/>
+	<SubTexture name="bg50018" x="0" y="0" width="1280" height="640" frameX="-3" frameY="0" frameWidth="2563" frameHeight="1296"/>
+	<SubTexture name="bg50019" x="0" y="0" width="1280" height="640" frameX="-3" frameY="0" frameWidth="2563" frameHeight="1296"/>
+	<SubTexture name="bg50020" x="0" y="0" width="1280" height="640" frameX="-2" frameY="-1" frameWidth="2563" frameHeight="1296"/>
+	<SubTexture name="bg50021" x="0" y="0" width="1280" height="640" frameX="-2" frameY="-1" frameWidth="2563" frameHeight="1296"/>
+	<SubTexture name="bg50022" x="0" y="0" width="1280" height="640" frameX="-2" frameY="-3" frameWidth="2563" frameHeight="1296"/>
+	<SubTexture name="bg50023" x="0" y="0" width="1280" height="640" frameX="-2" frameY="-3" frameWidth="2563" frameHeight="1296"/>
+	<SubTexture name="bg50024" x="0" y="0" width="1280" height="640" frameX="-2" frameY="-5" frameWidth="2563" frameHeight="1296"/>
+	<SubTexture name="bg50025" x="0" y="0" width="1280" height="640" frameX="-2" frameY="-5" frameWidth="2563" frameHeight="1296"/>
+	<SubTexture name="bg50026" x="0" y="0" width="1280" height="640" frameX="-1" frameY="-10" frameWidth="2563" frameHeight="1296"/>
+	<SubTexture name="bg50027" x="0" y="0" width="1280" height="640" frameX="-1" frameY="-10" frameWidth="2563" frameHeight="1296"/>
+	<SubTexture name="bg50028" x="0" y="0" width="1280" height="640" frameX="-1" frameY="-10" frameWidth="2563" frameHeight="1296"/>
+	<SubTexture name="bg50029" x="0" y="0" width="1280" height="640" frameX="-1" frameY="-10" frameWidth="2563" frameHeight="1296"/>
+</TextureAtlas>

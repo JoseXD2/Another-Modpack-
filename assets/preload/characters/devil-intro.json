@@ -1,0 +1,45 @@
+{
+	"animations": [
+	    {
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "intro",
+			"indices": [],
+			"name": "Intro"
+        },
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Omaga"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Devil_Intro",
+	"position": [
+		100,
+		-350
+	],
+	"healthicon": "devil",
+	"flip_x": false,
+	"healthbar_colors": [
+		33,
+		33,
+		33
+	],
+	"camera_position": [
+		-15,
+		-400
+	],
+	"sing_duration": 3,
+	"scale": 3.9
+}

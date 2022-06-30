@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="menu_pet_bf.png"><SubTexture name="BF HEY!!0000" x="228" y="0" width="206" height="255" frameX="-2" frameY="-1" frameWidth="208" frameHeight="264" />
+<SubTexture name="BF idle dance0000" x="0" y="0" width="228" height="256" frameX="-5" frameY="0" frameWidth="233" frameHeight="256" />
+</TextureAtlas>

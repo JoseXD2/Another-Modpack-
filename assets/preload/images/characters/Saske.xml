@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Saske.png"><SubTexture name="Sasuke Down0000" x="1075" y="781" width="344" height="569" frameX="-7" frameY="0" frameWidth="361" frameHeight="569" />
+<SubTexture name="Sasuke Down0001" x="622" y="1540" width="359" height="544" frameX="-1" frameY="-20" frameWidth="361" frameHeight="569" />
+<SubTexture name="Sasuke Down0002" x="981" y="1540" width="359" height="544" frameX="-1" frameY="-20" frameWidth="361" frameHeight="569" />
+<SubTexture name="Sasuke Down0003" x="1340" y="1540" width="359" height="544" frameX="-1" frameY="-20" frameWidth="361" frameHeight="569" />
+<SubTexture name="Sasuke Idle0000" x="1213" y="0" width="226" height="771" frameX="-4" frameY="0" frameWidth="231" frameHeight="771" />
+<SubTexture name="Sasuke Idle0001" x="0" y="781" width="229" height="759" frameX="-1" frameY="-11" frameWidth="231" frameHeight="771" />
+<SubTexture name="Sasuke Idle0002" x="229" y="781" width="230" height="756" frameX="-1" frameY="-14" frameWidth="231" frameHeight="771" />
+<SubTexture name="Sasuke Idle0003" x="1439" y="0" width="226" height="770" frameX="-4" frameY="-1" frameWidth="231" frameHeight="771" />
+<SubTexture name="Sasuke Left0000" x="2258" y="995" width="426" height="491" frameX="0" frameY="-14" frameWidth="433" frameHeight="505" />
+<SubTexture name="Sasuke Left0001" x="1699" y="1540" width="432" height="498" frameX="-1" frameY="0" frameWidth="433" frameHeight="505" />
+<SubTexture name="Sasuke Left0002" x="2258" y="0" width="431" height="498" frameX="-1" frameY="0" frameWidth="433" frameHeight="505" />
+<SubTexture name="Sasuke Left0003" x="2258" y="498" width="430" height="497" frameX="-1" frameY="0" frameWidth="433" frameHeight="505" />
+<SubTexture name="Sasuke Right0000" x="459" y="781" width="616" height="718" frameX="-37" frameY="-1" frameWidth="664" frameHeight="719" />
+<SubTexture name="Sasuke Right0001" x="1665" y="0" width="593" height="701" frameX="-26" frameY="0" frameWidth="664" frameHeight="719" />
+<SubTexture name="Sasuke Right0002" x="1665" y="701" width="593" height="701" frameX="-26" frameY="0" frameWidth="664" frameHeight="719" />
+<SubTexture name="Sasuke Right0003" x="0" y="1540" width="622" height="701" frameX="-26" frameY="0" frameWidth="664" frameHeight="719" />
+<SubTexture name="Sasuke Up0000" x="606" y="0" width="304" height="778" frameX="-1" frameY="-2" frameWidth="305" frameHeight="782" />
+<SubTexture name="Sasuke Up0001" x="0" y="0" width="303" height="781" frameX="0" frameY="0" frameWidth="305" frameHeight="782" />
+<SubTexture name="Sasuke Up0002" x="303" y="0" width="303" height="781" frameX="0" frameY="0" frameWidth="305" frameHeight="782" />
+<SubTexture name="Sasuke Up0003" x="910" y="0" width="303" height="778" frameX="0" frameY="-3" frameWidth="305" frameHeight="782" />
+</TextureAtlas>

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "XigIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				2
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "XigRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				29,
+				21
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "XigLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				5
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "XigUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				23
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "XigDown",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Xigmund",
+	"position": [
+		300,
+		0
+	],
+	"healthicon": "xigmund",
+	"flip_x": false,
+	"healthbar_colors": [
+		74,
+		151,
+		80
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 2.4
+}

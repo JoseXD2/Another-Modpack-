@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="EXE_assets.png"><SubTexture name="EXE_assets idle0000" x="0" y="0" width="377" height="337" frameX="0" frameY="0" frameWidth="377" frameHeight="337" />
+<SubTexture name="EXE_assets idle0001" x="377" y="0" width="377" height="337" frameX="0" frameY="0" frameWidth="377" frameHeight="337" />
+<SubTexture name="EXE_assets idle0002" x="0" y="337" width="377" height="337" frameX="0" frameY="0" frameWidth="377" frameHeight="337" />
+<SubTexture name="EXE_assets idle0003" x="377" y="337" width="377" height="337" frameX="0" frameY="0" frameWidth="377" frameHeight="337" />
+<SubTexture name="EXE_assets idle0004" x="755" y="0" width="377" height="337" frameX="0" frameY="0" frameWidth="377" frameHeight="337" />
+<SubTexture name="EXE_assets idle0005" x="755" y="337" width="377" height="337" frameX="0" frameY="0" frameWidth="377" frameHeight="337" />
+<SubTexture name="EXE_assets idle0006" x="0" y="674" width="377" height="337" frameX="0" frameY="0" frameWidth="377" frameHeight="337" />
+<SubTexture name="EXE_assets idle0007" x="377" y="674" width="377" height="337" frameX="0" frameY="0" frameWidth="377" frameHeight="337" />
+<SubTexture name="EXE_assets idle0008" x="755" y="674" width="377" height="337" frameX="0" frameY="0" frameWidth="377" frameHeight="337" />
+<SubTexture name="EXE_assets idle0009" x="1132" y="0" width="377" height="337" frameX="0" frameY="0" frameWidth="377" frameHeight="337" />
+<SubTexture name="EXE_assets idle0010" x="1132" y="337" width="377" height="337" frameX="0" frameY="0" frameWidth="377" frameHeight="337" />
+<SubTexture name="EXE_assets idle0011" x="1132" y="674" width="377" height="337" frameX="0" frameY="0" frameWidth="377" frameHeight="337" />
+<SubTexture name="EXE_assets idle0012" x="0" y="1011" width="377" height="337" frameX="0" frameY="0" frameWidth="377" frameHeight="337" />
+<SubTexture name="EXE_assets idle0013" x="377" y="1011" width="377" height="337" frameX="0" frameY="0" frameWidth="377" frameHeight="337" />
+<SubTexture name="EXE_assets down0000" x="728" y="1657" width="244" height="247" frameX="-48" frameY="-71" frameWidth="377" frameHeight="337" />
+<SubTexture name="EXE_assets down0001" x="488" y="1657" width="240" height="250" frameX="-51" frameY="-68" frameWidth="377" frameHeight="337" />
+<SubTexture name="EXE_assets down0002" x="0" y="1657" width="243" height="251" frameX="-50" frameY="-66" frameWidth="377" frameHeight="337" />
+<SubTexture name="EXE_assets down0003" x="243" y="1657" width="245" height="251" frameX="-49" frameY="-66" frameWidth="377" frameHeight="337" />
+<SubTexture name="EXE_assets left0000" x="0" y="1348" width="222" height="309" frameX="-30" frameY="-13" frameWidth="377" frameHeight="337" />
+<SubTexture name="EXE_assets left0001" x="222" y="1348" width="214" height="309" frameX="-38" frameY="-14" frameWidth="377" frameHeight="337" />
+<SubTexture name="EXE_assets left0002" x="436" y="1348" width="214" height="309" frameX="-39" frameY="-14" frameWidth="377" frameHeight="337" />
+<SubTexture name="EXE_assets left0003" x="650" y="1348" width="213" height="308" frameX="-40" frameY="-15" frameWidth="377" frameHeight="337" />
+<SubTexture name="EXE_assets left0004" x="863" y="1348" width="213" height="308" frameX="-40" frameY="-15" frameWidth="377" frameHeight="337" />
+<SubTexture name="EXE_assets right0000" x="1934" y="0" width="187" height="286" frameX="-153" frameY="-36" frameWidth="377" frameHeight="337" />
+<SubTexture name="EXE_assets right0001" x="1752" y="0" width="182" height="288" frameX="-152" frameY="-34" frameWidth="377" frameHeight="337" />
+<SubTexture name="EXE_assets right0002" x="1077" y="1348" width="182" height="288" frameX="-151" frameY="-33" frameWidth="377" frameHeight="337" />
+<SubTexture name="EXE_assets right0003" x="1259" y="1348" width="182" height="288" frameX="-151" frameY="-33" frameWidth="377" frameHeight="337" />
+<SubTexture name="EXE_assets right0004" x="1441" y="1348" width="182" height="288" frameX="-151" frameY="-33" frameWidth="377" frameHeight="337" />
+<SubTexture name="EXE_assets up0000" x="755" y="1011" width="243" height="318" frameX="-70" frameY="-6" frameWidth="377" frameHeight="337" />
+<SubTexture name="EXE_assets up0001" x="998" y="1011" width="244" height="316" frameX="-71" frameY="-8" frameWidth="377" frameHeight="337" />
+<SubTexture name="EXE_assets up0002" x="1242" y="1011" width="242" height="315" frameX="-72" frameY="-9" frameWidth="377" frameHeight="337" />
+<SubTexture name="EXE_assets up0003" x="1510" y="0" width="242" height="315" frameX="-72" frameY="-9" frameWidth="377" frameHeight="337" />
+<SubTexture name="EXE_assets up0004" x="1510" y="315" width="242" height="315" frameX="-72" frameY="-9" frameWidth="377" frameHeight="337" />
+<SubTexture name="EXE_assets up0005" x="1510" y="631" width="242" height="315" frameX="-72" frameY="-9" frameWidth="377" frameHeight="337" />
+<SubTexture name="EXE_assets up0006" x="1510" y="946" width="242" height="315" frameX="-72" frameY="-9" frameWidth="377" frameHeight="337" />
+</TextureAtlas>

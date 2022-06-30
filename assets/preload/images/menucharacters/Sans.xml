@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="SansStorymodeMenu.png">
+	
+	
+	<SubTexture name="Saness instance 10000" x="5" y="5" width="660" height="360" frameX="0" frameY="-13" frameWidth="660" frameHeight="377" />
+	<SubTexture name="Saness instance 10001" x="5" y="5" width="660" height="360" frameX="0" frameY="-13" frameWidth="660" frameHeight="377" />
+	<SubTexture name="Saness instance 10002" x="670" y="5" width="660" height="362" frameX="0" frameY="-13" frameWidth="660" frameHeight="377" />
+	<SubTexture name="Saness instance 10003" x="670" y="5" width="660" height="362" frameX="0" frameY="-13" frameWidth="660" frameHeight="377" />
+	<SubTexture name="Saness instance 10004" x="1336" y="5" width="660" height="362" frameX="0" frameY="-13" frameWidth="660" frameHeight="377" />
+	<SubTexture name="Saness instance 10005" x="1336" y="5" width="660" height="362" frameX="0" frameY="-13" frameWidth="660" frameHeight="377" />
+	<SubTexture name="Saness instance 10006" x="2001" y="5" width="660" height="363" frameX="0" frameY="-12" frameWidth="660" frameHeight="377" />
+	<SubTexture name="Saness instance 10007" x="2001" y="5" width="660" height="363" frameX="0" frameY="-12" frameWidth="660" frameHeight="377" />
+	<SubTexture name="Saness instance 10008" x="2667" y="5" width="660" height="365" frameX="0" frameY="-10" frameWidth="660" frameHeight="377" />
+	<SubTexture name="Saness instance 10009" x="2667" y="5" width="660" height="365" frameX="0" frameY="-10" frameWidth="660" frameHeight="377" />
+	<SubTexture name="Saness instance 10010" x="3332" y="5" width="660" height="367" frameX="0" frameY="-8" frameWidth="660" frameHeight="377" />
+	<SubTexture name="Saness instance 10011" x="3332" y="5" width="660" height="367" frameX="0" frameY="-8" frameWidth="660" frameHeight="377" />
+	<SubTexture name="Saness instance 10012" x="5" y="377" width="660" height="370" frameX="0" frameY="-6" frameWidth="660" frameHeight="377" />
+	<SubTexture name="Saness instance 10013" x="5" y="377" width="660" height="370" frameX="0" frameY="-6" frameWidth="660" frameHeight="377" />
+	<SubTexture name="Saness instance 10014" x="670" y="377" width="660" height="372" frameX="0" frameY="-4" frameWidth="660" frameHeight="377" />
+	<SubTexture name="Saness instance 10015" x="670" y="377" width="660" height="372" frameX="0" frameY="-4" frameWidth="660" frameHeight="377" />
+	<SubTexture name="Saness instance 10016" x="1336" y="377" width="660" height="374" frameX="0" frameY="-2" frameWidth="660" frameHeight="377" />
+	<SubTexture name="Saness instance 10017" x="1336" y="377" width="660" height="374" frameX="0" frameY="-2" frameWidth="660" frameHeight="377" />
+	<SubTexture name="Saness instance 10018" x="2001" y="377" width="660" height="376" frameX="0" frameY="-1" frameWidth="660" frameHeight="377" />
+	<SubTexture name="Saness instance 10019" x="2001" y="377" width="660" height="376" frameX="0" frameY="-1" frameWidth="660" frameHeight="377" />
+	<SubTexture name="Saness instance 10020" x="2667" y="377" width="660" height="376" frameX="0" frameY="-1" frameWidth="660" frameHeight="377" />
+	<SubTexture name="Saness instance 10021" x="2667" y="377" width="660" height="376" frameX="0" frameY="-1" frameWidth="660" frameHeight="377" />
+	<SubTexture name="Saness instance 10022" x="3332" y="377" width="660" height="377" />
+	<SubTexture name="Saness instance 10023" x="3332" y="377" width="660" height="377" />
+	<SubTexture name="Saness instance 10024" x="2667" y="377" width="660" height="376" frameX="0" frameY="-1" frameWidth="660" frameHeight="377" />
+	<SubTexture name="Saness instance 10025" x="2667" y="377" width="660" height="376" frameX="0" frameY="-1" frameWidth="660" frameHeight="377" />
+	<SubTexture name="Saness instance 10026" x="5" y="759" width="660" height="375" frameX="0" frameY="-1" frameWidth="660" frameHeight="377" />
+	<SubTexture name="Saness instance 10027" x="5" y="759" width="660" height="375" frameX="0" frameY="-1" frameWidth="660" frameHeight="377" />
+	<SubTexture name="Saness instance 10028" x="1336" y="377" width="660" height="374" frameX="0" frameY="-2" frameWidth="660" frameHeight="377" />
+	<SubTexture name="Saness instance 10029" x="1336" y="377" width="660" height="374" frameX="0" frameY="-2" frameWidth="660" frameHeight="377" />
+	<SubTexture name="Saness instance 10030" x="670" y="759" width="660" height="372" frameX="0" frameY="-4" frameWidth="660" frameHeight="377" />
+	<SubTexture name="Saness instance 10031" x="670" y="759" width="660" height="372" frameX="0" frameY="-4" frameWidth="660" frameHeight="377" />
+	<SubTexture name="Saness instance 10032" x="1336" y="759" width="660" height="370" frameX="0" frameY="-6" frameWidth="660" frameHeight="377" />
+	<SubTexture name="Saness instance 10033" x="1336" y="759" width="660" height="370" frameX="0" frameY="-6" frameWidth="660" frameHeight="377" />
+	<SubTexture name="Saness instance 10034" x="2001" y="759" width="660" height="367" frameX="0" frameY="-8" frameWidth="660" frameHeight="377" />
+	<SubTexture name="Saness instance 10035" x="2001" y="759" width="660" height="367" frameX="0" frameY="-8" frameWidth="660" frameHeight="377" />
+	<SubTexture name="Saness instance 10036" x="2667" y="759" width="660" height="365" frameX="0" frameY="-10" frameWidth="660" frameHeight="377" />
+	<SubTexture name="Saness instance 10037" x="2667" y="759" width="660" height="365" frameX="0" frameY="-10" frameWidth="660" frameHeight="377" />
+	<SubTexture name="Saness instance 10038" x="3332" y="759" width="660" height="363" frameX="0" frameY="-12" frameWidth="660" frameHeight="377" />
+	<SubTexture name="Saness instance 10039" x="3332" y="759" width="660" height="363" frameX="0" frameY="-12" frameWidth="660" frameHeight="377" />
+	<SubTexture name="Saness instance 10040" x="1336" y="5" width="660" height="362" frameX="0" frameY="-13" frameWidth="660" frameHeight="377" />
+	<SubTexture name="Saness instance 10041" x="1336" y="5" width="660" height="362" frameX="0" frameY="-13" frameWidth="660" frameHeight="377" />
+	<SubTexture name="Saness instance 10042" x="670" y="5" width="660" height="362" frameX="0" frameY="-13" frameWidth="660" frameHeight="377" />
+	<SubTexture name="Saness instance 10043" x="670" y="5" width="660" height="362" frameX="0" frameY="-13" frameWidth="660" frameHeight="377" />
+	<SubTexture name="Saness instance 10044" x="5" y="5" width="660" height="360" frameX="0" frameY="-13" frameWidth="660" frameHeight="377" />
+	<SubTexture name="Saness instance 10045" x="5" y="5" width="660" height="360" frameX="0" frameY="-13" frameWidth="660" frameHeight="377" />
+</TextureAtlas>

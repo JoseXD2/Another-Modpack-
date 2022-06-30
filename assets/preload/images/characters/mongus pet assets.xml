@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="mongus pet assets.png"><SubTexture name="mongus down0000" x="407" y="938" width="505" height="310" frameX="0" frameY="0" frameWidth="505" frameHeight="310" />
+<SubTexture name="mongus down0001" x="1578" y="0" width="443" height="297" frameX="-3" frameY="-12" frameWidth="505" frameHeight="310" />
+<SubTexture name="mongus down0002" x="912" y="938" width="463" height="303" frameX="-4" frameY="-7" frameWidth="505" frameHeight="310" />
+<SubTexture name="mongus idle0000" x="1578" y="725" width="182" height="203" frameX="0" frameY="-13" frameWidth="189" frameHeight="217" />
+<SubTexture name="mongus idle0001" x="1763" y="513" width="188" height="206" frameX="0" frameY="-10" frameWidth="189" frameHeight="217" />
+<SubTexture name="mongus idle0002" x="1578" y="513" width="185" height="212" frameX="-2" frameY="-4" frameWidth="189" frameHeight="217" />
+<SubTexture name="mongus idle0003" x="1578" y="297" width="183" height="216" frameX="-3" frameY="-1" frameWidth="189" frameHeight="217" />
+<SubTexture name="mongus idle0004" x="1761" y="297" width="182" height="216" frameX="-3" frameY="0" frameWidth="189" frameHeight="217" />
+<SubTexture name="mongus left0000" x="1137" y="0" width="441" height="397" frameX="0" frameY="0" frameWidth="454" frameHeight="397" />
+<SubTexture name="mongus left0001" x="0" y="938" width="407" height="389" frameX="-44" frameY="-8" frameWidth="454" frameHeight="397" />
+<SubTexture name="mongus left0002" x="1137" y="397" width="422" height="394" frameX="-32" frameY="-2" frameWidth="454" frameHeight="397" />
+<SubTexture name="mongus right0000" x="613" y="0" width="524" height="438" frameX="-1" frameY="0" frameWidth="526" frameHeight="439" />
+<SubTexture name="mongus right0001" x="508" y="505" width="502" height="428" frameX="0" frameY="-10" frameWidth="526" frameHeight="439" />
+<SubTexture name="mongus right0002" x="0" y="505" width="508" height="433" frameX="0" frameY="-5" frameWidth="526" frameHeight="439" />
+<SubTexture name="mongus up0000" x="0" y="0" width="226" height="505" frameX="0" frameY="0" frameWidth="226" frameHeight="505" />
+<SubTexture name="mongus up0001" x="425" y="0" width="188" height="451" frameX="0" frameY="-54" frameWidth="226" frameHeight="505" />
+<SubTexture name="mongus up0002" x="226" y="0" width="199" height="461" frameX="0" frameY="-44" frameWidth="226" frameHeight="505" />
+</TextureAtlas>

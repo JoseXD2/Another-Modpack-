@@ -1,0 +1,49 @@
+{
+	"song": {
+		"speed": 2,
+		"stage": "picnic",
+		"player1": "bf",
+		"player2": "date-gf",
+		"player3": null,
+		"events": [
+			[
+				45000,
+				[
+					[
+						"Camera Follow Pos",
+						"750",
+						"550"
+					]
+				]
+			],
+			[
+				60000,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				105000,
+				[
+					[
+						"Camera Follow Pos",
+						"750",
+						"550"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "bf-car",
+		"bpm": 128,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "funky-rendevous"
+	}
+}

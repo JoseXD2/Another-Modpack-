@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Naruto.png"><SubTexture name="Naruto Down0000" x="0" y="1871" width="481" height="374" frameX="-11" frameY="0" frameWidth="502" frameHeight="379" />
+<SubTexture name="Naruto Down0001" x="481" y="1871" width="500" height="351" frameX="-1" frameY="-21" frameWidth="502" frameHeight="379" />
+<SubTexture name="Naruto Down0002" x="981" y="1871" width="502" height="349" frameX="0" frameY="-29" frameWidth="502" frameHeight="379" />
+<SubTexture name="Naruto Down0003" x="1483" y="1871" width="502" height="349" frameX="0" frameY="-29" frameWidth="502" frameHeight="379" />
+<SubTexture name="Naruto Idle0000" x="1599" y="0" width="438" height="533" frameX="0" frameY="0" frameWidth="438" frameHeight="533" />
+<SubTexture name="Naruto Idle0001" x="0" y="1350" width="434" height="521" frameX="-3" frameY="-12" frameWidth="438" frameHeight="533" />
+<SubTexture name="Naruto Idle0002" x="434" y="1350" width="433" height="518" frameX="-4" frameY="-15" frameWidth="438" frameHeight="533" />
+<SubTexture name="Naruto Idle0003" x="1599" y="533" width="438" height="530" frameX="0" frameY="-3" frameWidth="438" frameHeight="533" />
+<SubTexture name="Naruto Idle0004" x="1599" y="0" width="438" height="533" frameX="0" frameY="0" frameWidth="438" frameHeight="533" />
+<SubTexture name="Naruto Left0000" x="763" y="708" width="409" height="619" frameX="-37" frameY="-23" frameWidth="446" frameHeight="642" />
+<SubTexture name="Naruto Left0001" x="380" y="708" width="383" height="630" frameX="-33" frameY="-12" frameWidth="446" frameHeight="642" />
+<SubTexture name="Naruto Left0002" x="1220" y="0" width="379" height="642" frameX="0" frameY="0" frameWidth="446" frameHeight="642" />
+<SubTexture name="Naruto Left0003" x="0" y="708" width="380" height="642" frameX="-1" frameY="0" frameWidth="446" frameHeight="642" />
+<SubTexture name="Naruto Right0000" x="1172" y="708" width="426" height="398" frameX="0" frameY="-8" frameWidth="432" frameHeight="406" />
+<SubTexture name="Naruto Right0001" x="2037" y="0" width="427" height="398" frameX="0" frameY="-8" frameWidth="432" frameHeight="406" />
+<SubTexture name="Naruto Right0002" x="1296" y="1350" width="429" height="405" frameX="0" frameY="-1" frameWidth="432" frameHeight="406" />
+<SubTexture name="Naruto Right0003" x="867" y="1350" width="429" height="406" frameX="0" frameY="0" frameWidth="432" frameHeight="406" />
+<SubTexture name="Naruto Up0000" x="907" y="0" width="313" height="691" frameX="0" frameY="-15" frameWidth="314" frameHeight="709" />
+<SubTexture name="Naruto Up0001" x="302" y="0" width="302" height="707" frameX="-7" frameY="-1" frameWidth="314" frameHeight="709" />
+<SubTexture name="Naruto Up0002" x="0" y="0" width="302" height="708" frameX="-8" frameY="0" frameWidth="314" frameHeight="709" />
+<SubTexture name="Naruto Up0003" x="604" y="0" width="303" height="707" frameX="-7" frameY="-1" frameWidth="314" frameHeight="709" />
+</TextureAtlas>

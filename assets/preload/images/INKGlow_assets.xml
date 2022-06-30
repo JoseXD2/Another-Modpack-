@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="INKGlow_assets.png"><SubTexture name="blue0000" x="0" y="246" width="214" height="226" frameX="17" frameY="-46" frameWidth="295" frameHeight="525" />
+<SubTexture name="green0000" x="0" y="0" width="244" height="246" frameX="43" frameY="-32" frameWidth="295" frameHeight="525" />
+<SubTexture name="purple0000" x="244" y="0" width="200" height="244" frameX="17" frameY="-33" frameWidth="295" frameHeight="525" />
+<SubTexture name="red0000" x="444" y="0" width="225" height="228" frameX="23" frameY="-46" frameWidth="295" frameHeight="525" />
+</TextureAtlas>
